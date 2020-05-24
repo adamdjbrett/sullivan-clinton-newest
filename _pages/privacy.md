@@ -1,6 +1,9 @@
 ---
 title: Privacy Policy
 permalink: /privacy/
+toc: true
+toc_label: "Privacy & Cookies"
+toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 We, the Operators of this Website, provide it as a public service to our users.
 This policy covers the following sites:

@@ -4,6 +4,9 @@ date: '2005-06-13'
 author: bob-spiegelman
 permalink: /education/
 redirect_from: /education/index.html
+toc: true
+toc_label: "Educator's Guide TOC"
+toc_icon: "Fire"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Here's the Background, Events and Aftermath of Sullivan/Clinton! It provides teachers with ideas for lesson plans, homework assignments and student projects. Version 1.0 is on the webpage below. To download the low-cost PDF version, simply click the "Educator's Guide PDF v1.0" icon below on the left side. Future updates will be made available from this page.

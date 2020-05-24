@@ -4,6 +4,9 @@ date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /links/
+toc: true
+toc_label: "Resources & Links TOC"
+toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 ## SULLIVAN CLINTON RELATED TOPICS
