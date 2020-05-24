@@ -7,6 +7,17 @@ redirect_from:
   - /audiovisual/lores.php
   - /audiovisual/lores.php.html
   - /audiovisual/lores/
+  sidebar:
+    title: "Audio/Visual"
+    nav: sidebar-av
+sidebar-av:
+  - title: "Audio/Visual"
+    url: /audiovisual/
+    children:
+      - title: "Longhouse Burning"
+        url: /audiovisual/longhouse-burning/
+      - title: "Sullivan/Clinton Short Video"
+        url: /audiovisual/sullivan-clinton-video/
 ---
 ## The Sullivan-Clinton Campaign, a video short by Raphaele Shirley
 
