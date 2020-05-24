@@ -1,11 +1,11 @@
 ---
-
 title: "New Sources on Sullivan-Clinton Campaign"
 date: '2020-04-13'
-image: /images/headers/sky.jpg
+excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 permalink: /new-sources-sullivan-clinton/
-categories: resource
+categories:  
+  - resource
 tags:
   - resource
   - journal

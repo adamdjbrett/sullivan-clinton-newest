@@ -1,9 +1,10 @@
 ---
 title: 'AFTER DINNER TOASTS'
-date: '2005-06-13'
-image: /images/headers/sky.jpg
+date: '2005-06-22'
+excerpt_separator: "<!--more-->"
 author: bob-spiegelman
-type: period
+categories:
+  -  period
 permalink: /archives/after-dinner-toasts/
 redirect_from: /archives/000126.php
 ---

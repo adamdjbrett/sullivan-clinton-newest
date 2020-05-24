@@ -1,9 +1,10 @@
 ---
 title: 'ODE TO TOWN DESTROYER'
-date: '2005-06-13'
-image: /images/headers/sky.jpg
+date: '2005-06-15'
+excerpt_separator: "<!--more-->"
 author: bob-spiegelman
-type: blog-archive
+categories:
+  -  blog-archive
 permalink: /archives/ode-town-destroyer/
 redirect_from: /archives/000105.php
 ---

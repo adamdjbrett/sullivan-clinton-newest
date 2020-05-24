@@ -1,14 +1,20 @@
 ---
+id: 000072
 title: "REFUGEES OF NIAGARA 1779-1780: *THE WINTER OF HUNGER*"
 date: 2004-04-16
-image: /images/headers/sky.jpg
+excerpt_separator: "<!--more-->"
 author: timothy-shaw
-type: articles
+categories:
+  -  articles
+tags:
+    - articles
+    - refugees
 permalink: /texts/articles/archives/refugees-niagara/
 redirect_from: /texts/articles/archives/000072.php
 ---
 _The expedition you are appointed to command is directed against the hostile tribes of the Six Nations of Indians, with their associates and adherents. The immediate objects are the total destruction and devastation of their settlements and the capture of as many prisoners of every age and sex as possible. It will be essential to ruin their crops now in the ground and preventing their planting more...Should Niagara fall into your hands in the manner I have mentioned you will do everything in your power for preserving and maintaining it by establishing a chain of posts in such a manner as shall appear to you most safe and effectual and tending as little to reduce our general forces as possible...._
 - George Washington's orders to Gen. John Sullivan, 31 May 1779
+<!--more-->
 
 Each morning, as the Middle East's crises unfold, we read statements in our newspapers that we're devoted to the plight of the region's refugees. Yet, while digesting these paragraphs, many of us are not aware of a similar desperate drama that unfolded here, during the American Revolution, on the Niagara Frontier of New York State.
 
