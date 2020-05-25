@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /texts/period/archives/senecas-truth-power/
-redirect_from: /texts/period/archives/000113.php
+redirect_from: /texts/period/archives/000113/
 ---
 
 

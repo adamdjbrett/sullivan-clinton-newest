@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /texts/period/archives/civilization-defined/
-redirect_from: /texts/period/archives/000131.php
+redirect_from: /texts/period/archives/000131/
 ---
 
 A POPULAR ACCOUNT OF THE HEROES AND ADVENTURERS

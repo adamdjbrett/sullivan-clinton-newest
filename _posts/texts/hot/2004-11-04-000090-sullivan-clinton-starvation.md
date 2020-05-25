@@ -7,7 +7,7 @@ author: timothy-shaw
 categories:
   -  hot
 permalink: /texts/hot/archives/sullivan-clinton-starvation/
-redirect_from: /texts/hot/archives/000090.php
+redirect_from: /texts/hot/archives/000090/
 ---
 
 The entries that follow address this terrible question...

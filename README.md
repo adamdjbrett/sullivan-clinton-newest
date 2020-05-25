@@ -5,9 +5,23 @@
   - Gallery
   - sidebar navigation
     - products sidebar nav
-  - move /texts/  
+  - fonts
+  - colors
+  - fix Videos
+    - longredux
+    - introOG
 
-
+## done
+- remove
+    - gem "minimal-mistakes-jekyll" before commit
+- fix author sidebars
+      - show on posts
+      - multi-author
+- update humans
+- update credits      
+- pagination
+- move /texts/
+- texts categories      
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 

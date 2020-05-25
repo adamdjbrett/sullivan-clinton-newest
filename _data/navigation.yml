@@ -1,26 +1,63 @@
- main links
+#main links
 main:
   - title: "Home"
     url: /
-   - title: "About"
-     url: /about/
-   - title: "Texts"
-     url: /categories/texts/
-   - title: "Maps"
-     url: /maps/
-   - title: "Gallery"
-     url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Texts"
+    url: /categories/texts/
+  - title: "Maps"
+    url: /maps/
+  - title: "Gallery"
+    url: /sitemap/
   - title: "Audio/Visual"
     url: /audiovisual/
-   - title: "Bio"
-     url: /bio/
-   - title: "Links"
-     url: /links/
-   - title: "Credits"
-     url: /contact/
-   - title: "Education"
-     url: /education/
+  - title: "Bio"
+    url: /bio/
+  - title: "Links"
+    url: /links/
+  - title: "Credits"
+    url: /contact/
+  - title: "Education"
+    url: /education/
   - title: "Donations"
     url: /products/
-   - title: "Sitemap"
-     url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
+
+#sidebar audiovisual
+sidebar-av:
+  - title: "Audio/Visual Home"
+    url: /audiovisual/
+    children:
+      - title: "Longhouse Burning"
+        url: /audiovisual/longhouse-burning/
+      - title: "Sullivan/Clinton Short Video"
+        url: /audiovisual/sullivan-clinton-video/
+
+#sidebar donations
+sidebar-donations:
+  - title: "Donations and Projects"
+    url: /donations-projects/
+    children:
+      - title: "Purchase Fields of Fire"
+        url: /donations-projects/fields-fire/
+      - title: "Purchase Mapset"
+        url: /donations-projects/mapset/
+
+#sidebar texts
+sidebar-texts:
+  - title: "Table of Contents"
+    children:
+      - title: "Articles"
+        url: /categories/articles/
+      - title: "Blog Archive"
+        url: /categories/blog-archive/
+      - title: "Facts"
+        url: /categories/facts/
+      - title: "Hot"
+        url: /categories/hot/
+      - title: "Period Texts"
+        url: /categories/period/
+      - title: "Texts"
+        url: /categories/texts/

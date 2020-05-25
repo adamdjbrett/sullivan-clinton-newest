@@ -10,10 +10,11 @@ permalink: '/credits/'
   - Web Development and Administration by [Adam DJ Brett](https://wwww.adamdjbrett.com)
   - Supported by [Indigenous Values Initiative](https://indigenousvalues.org/) and [American Indian Law Alliance](https://aila.ngo)
 
-### Thanks to the minicomp/Wax Team
-  - [minicomp/wax - github.com/minicomp/wax](https://github.com/minicomp/wax)
-  - Alex Gil, @elotroalex, https://github.com/elotroalex
-  - marii¨, @mnyrop, https://github.com/mnyrop
+### Minimal Mistakes theme
+  - Name: Michael Rose @mmistakes
+  - Site: https://mademistakes.com/
+  - Twitter: [@mmistakes](https://twitter.com/mmistakes)
+  - Theme: [https://github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
 ### Enhancements
   - [Jekyll Codex for enhancements](https://jekyllcodex.org)
@@ -33,11 +34,3 @@ permalink: '/credits/'
 ***
 ## Original Site by:  
   - [Clint Fisher Art](http://www.clintfisherart.com/), [Jeremy Zilar](http://silencematters.com), [David Correll,](http://www.davidcorrell.net/) & Robert Spiegelman
-
-***
-## About Wax
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
-
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
-
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).

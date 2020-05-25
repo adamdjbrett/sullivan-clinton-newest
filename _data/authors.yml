@@ -1,0 +1,36 @@
+# /_data/authors.yml
+#Bob
+bob-spiegelman:
+  name        : "Robert Spiegelman"
+  bio         : "Bob Spiegelman has been a freelance author and film producer, screenwriter, project-developer, multimedia advisor, research director and story consultant on a growing array of film, museum and multimedia projects."
+  avatar      : "/images/robert-spiegelman-250x250.jpg"
+  location    : "New York City"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bob@sullivanclinton.com"
+    - label: "Bio"
+      icon: "fas fa-fw fa-link"
+      url: "/bio/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://thenandnow.us"
+
+#Adam
+adamdjbrett:
+  name: 'Adam DJ Brett'
+  bio: "Adam is a Ph.D. candidate in the department of religion at Syracuse University [adamdjbrett.com](https://adamdjbrett.com)."
+  location: "Syracuse, NY"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:adam@adamdjbrett.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://adamdjbrett.com"
+
+#Tim
+timothy-shaw:
+  name: 'Timothy T. Shaw'
+  position: Author
+  bio: "Timothy T. Shaw is a highly respected member of the Old Fort Niagara Corps of Volunteers. He has written for On The Trail magazine and the Camp Chase Gazette."

@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  facts
 permalink: /texts/facts/archives/advance-planning/
-redirect_from: /texts/facts/archives/00028.php
+redirect_from: /texts/facts/archives/00028/
 excerpt_separator: "<!--more-->"
 categories:
   - texts

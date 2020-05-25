@@ -6,7 +6,7 @@ author: bob-spiegelman
 categories:
   -  blog-archive
 permalink: /archives/keyplayers/
-redirect_from:: /archives/000101.php
+redirect_from:: /archives/000101/
 ---
 ## For a "Who's Who" of the Sullivan/Clinton saga:
 

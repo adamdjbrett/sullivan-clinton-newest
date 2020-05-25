@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 categories:
   -  period
 permalink: /texts/period/archives/officers-journals/
-redirect_from: /texts/period/archives/000132.php
+redirect_from: /texts/period/archives/000132/
 ---
 
 

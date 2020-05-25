@@ -36,7 +36,7 @@ Click the Icon to launch the map.
 
 By Alan Michelson, 1997
 
-[![No York](/images/thumbs/thumbnoyork.jpg)](/images/maps/newtribenoyork.jpg "Launch The No York Map")
+[![No York](/images/thumbs/newtribenoyork_tn.jpg)](/images/maps/newtribenoyork.jpg "Launch The No York Map")
 
 Click icon for a classroom map of NY with only Native American place names.
 
@@ -44,6 +44,6 @@ Click icon for a classroom map of NY with only Native American place names.
 
 Where Geology, Development & Dispossession Meet - from a book by Ralph Stockman Tarr - courtesy of Bill Hecht
 
-[![Ithaca-Cornell_Cayuga Map Image](images/thumbs/thumbithaca.gif)](/images/maps/Block-Diagram-of-Ithaca-Cor.gif "Launch The Block Diagrams of Ithaca-Cornell_Cayuga Map")
+[![Ithaca-Cornell_Cayuga Map Image](/images/thumbs/Block-Diagram-of-Ithaca-Cor_tn.jpg)](/images/maps/Block-Diagram-of-Ithaca-Cor.gif "Launch The Block Diagrams of Ithaca-Cornell_Cayuga Map")
 
 Click the Icon to launch the map.

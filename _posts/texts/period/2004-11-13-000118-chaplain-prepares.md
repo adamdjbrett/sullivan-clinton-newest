@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /texts/period/archives/chplain-prepares/
-redirect_from: /texts/period/archives/000118.php
+redirect_from: /texts/period/archives/000118/
 ---
 
 The necessity of a just & speedy retaliation for British & savage barbarity prompts the Army to encounter every fatigue & surmount every difficulty. Havock � devastation & waste salute our Eyes where � flourishing, now desolated Country. -- & these objects create strange feelings in the breast � a just indignation & deep abhorrence of pretended British Clemency once so much boasted of � now blended with savage barbarity. Upwards of one hundred & fifty widows [sic] were here made upon this ground � in the spaced of one hour and a half about a year from this time. Are these the fruits & effects of thy Clemency O George � thou tyrant of Britain & scourge to Mankind! May he, to whom Vengeance belongs pour forth his righteous Indignation in due time.

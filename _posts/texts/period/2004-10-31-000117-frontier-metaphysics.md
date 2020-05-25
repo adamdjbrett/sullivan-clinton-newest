@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /texts/period/archives/frontier-metaphysics/
-redirect_from: /texts/period/archives/000123.php
+redirect_from: /texts/period/archives/000123/
 ---
 The instinct of antipathy against an Indian grows in the backwoodsman with the sense of good and bad, right and wrong. In one breath he learns that a brother is to be loved, and an Indian to be hated.
 

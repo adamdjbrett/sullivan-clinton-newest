@@ -6,7 +6,7 @@ author: bob-spiegelman
 categories:
   -  blog-archive
 permalink: /archives/ode-town-destroyer/
-redirect_from: /archives/000105.php
+redirect_from: /archives/000105/
 ---
 
 

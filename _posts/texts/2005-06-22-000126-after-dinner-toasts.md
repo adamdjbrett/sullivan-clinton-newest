@@ -6,7 +6,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /archives/after-dinner-toasts/
-redirect_from: /archives/000126.php
+redirect_from: /archives/000126/
 ---
 
 General Washington and the Army;

@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  period
 permalink: /texts/period/archives/burning-onondaga/
-redirect_from: /texts/period/archives/000134.php
+redirect_from: /texts/period/archives/000134/
 ---
 
 21st. this morning set of about Day Break on the same line of march and went about 6 Miles when we halted, Capt. Graham with his Compy. was sent forward as an advance party then proceeded on to the Onandaga lake about 8 Miles in length & 4 in Breath waded an arm of it about 4 foot deep and 200 yards wide and came to Onandaga creek, small but deep, had to cross it on a log. Capt. Grahams Co Just as he had crossed the creek caught an Indian who was shooting Pidgeons & made him prisoner, And we got some Information from him, then proceeded on till we come within about one Mile of the Town...

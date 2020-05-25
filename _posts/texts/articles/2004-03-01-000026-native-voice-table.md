@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   -  articles
 permalink: /texts/articles/archives/native-voice-table/
-redirect_from: /texts/articles/archives/000026.php
+redirect_from: /texts/articles/archives/000026/
 excerpt_separator: "<!--more-->"
 categories:
   - texts

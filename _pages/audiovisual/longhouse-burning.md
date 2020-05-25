@@ -8,16 +8,8 @@ redirect_from:
   - /audiovisual/animation/longredux.swf
   - /audiovisual/animation/longhouse-burning/
 sidebar:
-  title: "Audio/Visual"
+  title: "More Audio/Visual Aids"
   nav: sidebar-av
-sidebar-av:
-  - title: "Audio/Visual"
-    url: /audiovisual/
-    children:
-      - title: "Longhouse Burning"
-        url: /audiovisual/longhouse-burning/
-      - title: "Sullivan/Clinton Short Video"
-        url: /audiovisual/sullivan-clinton-video/
 ---
 
 # Longhouse burning, a five-part meditation by Jeremy Zilar
