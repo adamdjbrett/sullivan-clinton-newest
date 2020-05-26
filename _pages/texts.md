@@ -1,7 +1,9 @@
 ---
 title: 'Daring Texts'
 date: '2005-06-13'
-image: /images/splash/barbwire-1765900_1920.jpg
+header:
+  image: /images/splash/barbwire-1765900_1920.jpg
+  caption: "barbwire"
 author: bob-spiegelman
 permalink: /texts/
 sidebar:
@@ -25,6 +27,6 @@ _Your corn is ripe today; mine will be so tomorrow. 'Tis profit for us both, tha
 
 [Facts](/categories/facts/){: .btn .btn--danger .btn--x-large}
 [Period Texts](/categories/period/){: .btn .btn--danger .btn--x-large}
-  
+
 [Articles](/categories/articles/){: .btn .btn--danger .btn--x-large}
 [Hot Topics](/categories/hot/){: .btn .btn--danger .btn--x-large}
