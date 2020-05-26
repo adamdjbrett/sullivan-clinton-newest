@@ -6,4 +6,4 @@ permalink: /intro/
 redirect_from: /intro.php
 ---
 
-[/videos/introog.mp4](/videos/introog.mp4)
+[/videos/sullivan-clinton-introog.mp4](/videos/sullivan-clinton-introog.mp4)
