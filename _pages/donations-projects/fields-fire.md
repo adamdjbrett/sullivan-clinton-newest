@@ -6,6 +6,9 @@ permalink: /donations-projects/fields-fire/
 redirect_from:
   - /dp/popup01.html
   - /dp/fields-fire/
+sidebar:
+  title: "Donations-Projects"
+  nav: sidebar-donations
 ---
 ## Fields of Fire: The Sullivan Clinton Campaign, Then and Now
 ### For Readers, Travelers & Teachers
