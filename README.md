@@ -4,6 +4,7 @@
 ## To Do
   - Gallery
   - sidebar navigation
+    - donations
     - products sidebar nav
   - fonts
   - colors
@@ -22,7 +23,7 @@
 - fix Videos
   - longredux
   - introOG
-      
+
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
