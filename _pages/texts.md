@@ -1,9 +1,11 @@
 ---
-title: 'Daring Texts'
+title: 'Texts'
 date: '2005-06-13'
+layout: category
+taxonomy: texts
 header:
   image: /images/splash/barbwire-1765900_1920.jpg
-  caption: "barbwire"
+  caption: "Barbedwire, photo credit: Unsplash"
 author: bob-spiegelman
 permalink: /texts/
 sidebar:
