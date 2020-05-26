@@ -5,7 +5,8 @@ date: 2004-03-01
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  facts
+  - facts
+  - texts
 permalink: /texts/facts/archives/timeline-context/
 redirect_from: /texts/facts/archives/000125/
 ---

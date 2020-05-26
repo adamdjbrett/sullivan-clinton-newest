@@ -5,7 +5,8 @@ date: 2004-04-25
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/impending-starvation/
 redirect_from: /texts/period/archives/000085/
 ---

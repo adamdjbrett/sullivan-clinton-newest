@@ -5,7 +5,8 @@ date: 2004-05-14
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/scalps-firewater/
 redirect_from: /texts/period/archives/000096/
 ---

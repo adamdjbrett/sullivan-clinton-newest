@@ -5,7 +5,8 @@ date: 2004-04-10
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  facts
+  - facts
+  - texts
 permalink: /texts/facts/archives/name/
 redirect_from: /texts/facts/archives/000123/
 ---

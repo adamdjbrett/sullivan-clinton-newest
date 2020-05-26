@@ -5,7 +5,8 @@ date: 2004-03-06
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  facts
+  - facts
+  - texts
 tags:
     - facts
     - details

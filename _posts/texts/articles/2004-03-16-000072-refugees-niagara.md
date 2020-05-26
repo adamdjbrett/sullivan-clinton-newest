@@ -5,7 +5,8 @@ date: 2004-04-16
 excerpt_separator: "<!--more-->"
 author: timothy-shaw
 categories:
-  -  articles
+  - articles
+  - texts
 tags:
     - articles
     - refugees

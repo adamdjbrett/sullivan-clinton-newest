@@ -5,7 +5,8 @@ date: 2004-10-31
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/frontier-metaphysics/
 redirect_from: /texts/period/archives/000123/
 ---

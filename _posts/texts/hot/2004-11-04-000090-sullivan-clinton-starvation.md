@@ -5,7 +5,8 @@ date: 2004-11-04
 excerpt_separator: "<!--more-->"
 author: timothy-shaw
 categories:
-  -  hot
+  - hot
+  - texts
 permalink: /texts/hot/archives/sullivan-clinton-starvation/
 redirect_from: /texts/hot/archives/000090/
 ---

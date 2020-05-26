@@ -4,7 +4,8 @@ date: '2005-06-22'
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /archives/after-dinner-toasts/
 redirect_from: /archives/000126/
 ---

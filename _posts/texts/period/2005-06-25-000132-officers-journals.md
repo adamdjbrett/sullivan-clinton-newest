@@ -4,7 +4,8 @@ date: 2004-06-25
 author: bob-spiegelman
 excerpt_separator: "<!--more-->"
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/officers-journals/
 redirect_from: /texts/period/archives/000132/
 ---

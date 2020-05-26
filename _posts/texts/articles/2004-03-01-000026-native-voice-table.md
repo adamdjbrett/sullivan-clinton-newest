@@ -5,7 +5,8 @@ date: 2004-03-01
 
 author: bob-spiegelman
 categories:
-  -  articles
+  - articles
+  - texts
 permalink: /texts/articles/archives/native-voice-table/
 redirect_from: /texts/articles/archives/000026/
 excerpt_separator: "<!--more-->"

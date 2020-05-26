@@ -5,7 +5,8 @@ date: 2006-11-22
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/burning-onondaga/
 redirect_from: /texts/period/archives/000134/
 ---

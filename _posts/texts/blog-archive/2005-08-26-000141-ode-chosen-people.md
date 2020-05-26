@@ -4,7 +4,8 @@ date: '2005-08-26'
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  blog-archive
+  - blog-archive
+  - texts
 permalink: /archives/ode-chosen-people/
 redirect_from: /archives/000141/
 ---

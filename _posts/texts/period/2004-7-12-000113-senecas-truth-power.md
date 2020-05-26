@@ -5,7 +5,8 @@ date: 2004-07-12
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/senecas-truth-power/
 redirect_from: /texts/period/archives/000113/
 ---

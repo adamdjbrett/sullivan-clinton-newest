@@ -5,7 +5,8 @@ date: 2004-03-02
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  facts
+  - facts
+  - texts
 permalink: /texts/facts/archives/advance-planning/
 redirect_from: /texts/facts/archives/00028/
 excerpt_separator: "<!--more-->"

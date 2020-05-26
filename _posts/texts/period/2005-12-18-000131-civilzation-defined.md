@@ -5,7 +5,8 @@ date: 2005-12-10
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
-  -  period
+  - period
+  - texts
 permalink: /texts/period/archives/civilization-defined/
 redirect_from: /texts/period/archives/000131/
 ---

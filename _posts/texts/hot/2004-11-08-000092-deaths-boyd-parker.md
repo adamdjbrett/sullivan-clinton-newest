@@ -6,6 +6,7 @@ excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 categories:
   - hot
+  - texts
 permalink: /texts/hot/archives/boyd-parker/
 redirect_from: /texts/hot/archives/000092/
 ---
