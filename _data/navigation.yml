@@ -12,6 +12,10 @@ main:
     url: /sitemap/
   - title: "Audio/Visual"
     url: /audiovisual/
+  - title: "Introduction"
+    url: /intro/
+  - title: "Contact"
+    url: /contact/
   - title: "Bio"
     url: /bio/
   - title: "Links"
@@ -21,6 +25,8 @@ main:
   - title: "Education"
     url: /education/
   - title: "Donations"
+    url: /donations-projects/
+  - title: "Products"
     url: /products/
   - title: "Sitemap"
     url: /sitemap/
@@ -31,6 +37,8 @@ sidebar-av:
   - title: "Audio/Visual Home"
     url: /audiovisual/
     children:
+      - title: "Introduction"
+        url: /intro/
       - title: "Longhouse Burning"
         url: /audiovisual/longhouse-burning/
       - title: "Sullivan/Clinton Short Video"
