@@ -20,7 +20,7 @@ main:
     url: /bio/
   - title: "Links"
     url: /links/
-  - title: "Credits"
+  - title: "Contact"
     url: /contact/
   - title: "Education"
     url: /education/
@@ -28,6 +28,8 @@ main:
     url: /donations-projects/
   - title: "Products"
     url: /products/
+  - title: "Credits"
+    url: /credits/
   - title: "Sitemap"
     url: /sitemap/
 
