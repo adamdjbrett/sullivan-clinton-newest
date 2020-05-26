@@ -3,7 +3,6 @@ title: 'EDUCATOR’S GUIDE TO SULLIVAN/CLINTON'
 date: '2005-06-13'
 author: bob-spiegelman
 permalink: /education/
-redirect_from: /education/index.html
 toc: true
 toc_label: "Educator's Guide TOC"
 toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)
