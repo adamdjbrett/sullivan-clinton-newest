@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Texts"
-    url: /categories/texts/
+    url: /texts/
   - title: "Maps"
     url: /maps/
   - title: "Gallery"
