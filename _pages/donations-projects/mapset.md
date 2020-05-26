@@ -1,7 +1,8 @@
 ---
 title: 'THE SULLIVAN/CLINTON MAPSET'
 date: '2005-06-13'
-image: /images/mappop.jpg
+header:
+  image: /images/mappop.jpg
 author: bob-spiegelman
 permalink: /donations-projects/mapset/
 redirect_from:

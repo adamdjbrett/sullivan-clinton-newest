@@ -1,7 +1,8 @@
 ---
 title: 'Longhouse burning'
 date: '2005-06-13'
-image: /images/headers/sky.jpg
+header:
+  image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /audiovisual/longhouse-burning/
 redirect_from:

@@ -1,7 +1,8 @@
 ---
 title: Maps
 date: '2005-06-13'
-image: /images/headers/maps.jpg
+header:
+  image: /images/headers/maps.jpg
 author: bob-spiegelman
 permalink: /maps/
 redirect_from:

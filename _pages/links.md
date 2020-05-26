@@ -1,7 +1,8 @@
 ---
 title: links
 date: '2005-06-13'
-image: /images/headers/sky.jpg
+header:
+  image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /links/
 toc: true

@@ -1,7 +1,8 @@
 ---
 title: 'Past Events Pre 2008'
 date: '2008-06-13'
-image: /images/headers/sky.jpg
+header:
+  image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /past-events/
 ---
