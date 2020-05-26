@@ -7,9 +7,6 @@
     - products sidebar nav
   - fonts
   - colors
-  - fix Videos
-    - longredux
-    - introOG
 
 ## done
 - remove
@@ -21,7 +18,11 @@
 - update credits      
 - pagination
 - move /texts/
-- texts categories      
+- texts categories
+- fix Videos
+  - longredux
+  - introOG
+      
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
