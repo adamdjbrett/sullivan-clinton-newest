@@ -12,7 +12,7 @@ permalink: '/credits/'
 
 ### Minimal Mistakes theme
   - Name: Michael Rose @mmistakes
-  - Site: https://mademistakes.com/
+  - Site: [mademistakes.com](https://mademistakes.com/)
   - Twitter: [@mmistakes](https://twitter.com/mmistakes)
   - Theme: [https://github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
