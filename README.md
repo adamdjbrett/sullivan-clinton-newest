@@ -8,6 +8,7 @@
     - products sidebar nav
   - fonts
   - colors
+  - link checking
 
 ## done
 - remove

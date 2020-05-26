@@ -233,12 +233,18 @@ Under the Great Law of Peace, the Six Nations are allies in the Confederacy. Eac
 
 As a point of orientation, examine the website's Sullivan/Clinton Map. The first map scene shows the roughly where the Haudenosaunee Six Nations had lived until the Sullivan-Clinton Campaign of 1779.
 
+[Back to Top](#top)  
+
 **RESOURCES:**
 On the Web, see [sixnations.org](http://sixnations.org) for an authoritative orientation to the philosophy, culture, history of the Haudenosaunee peoples. At [sullivanclinton.com](/) see the [Texts/Articles](/texts/) section: "The Winter of Hunger, Refugees of Niagara 1779-1780." See images on the [Audio/Visual](/audiovisual/) page as well as the "Sullivan/Clinton Video" and "Longhouse Burning." View/read the ["Ganondagan House of Peace"](http://ganondagan.org/) video and study guide and visit its related website at [ganondagan.org](http://ganondagan.org/). Consult the book [Forgotten Founders and Debating Democracy](http://www.amazon.com/exec/obidos/tg/detail/-/0916782905/qid=1095179913/sr=1-12/ref=sr_1_12/103-2275292-2462243?v=glance&s=books) by Bruce E. Johansen. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR ELEMENTARY AND JUNIOR HIGH STUDENTS:**
 
 Divide up the class into small groups. Each group then researches and makes a presentation to the class about a single key aspect of Iroquois life or culture. This could include: men and women's primary activities; the central meaning of corn; the cooking of traditional Iroquois foods; the meaning of traditional Iroquois holidays; the place of dreams and storytelling. Each group could have the option to retell or even re-enact aspects of traditional Iroquois legends.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR HIGH-SCHOOL AND COLLEGE STUDENTS:**
 
@@ -256,11 +262,17 @@ The year was 1779\. In the midst of the American Revolution, Commander-in-Chief 
 
 Indeed, between April and September 1779, almost all of Iroquoia was reduced to shattered hearths and fields of fire. The estimates vary (in the literature) between 160,000 to 1 million bushels of corn and other vegetables, 40 to 50 towns and 500 to 1200 homes, destroyed by Sullivan/Clinton. And all this destruction happened on the eve of the worst winter in recorded memory. All this, before the 1783 Treaty of Paris (that ended the Revolutionary war) left Indians out of the picture. In addition, postwar land treaties and illegal actions by land speculators finished the dispossession that Sullivan/Clinton had begun on the battlefield.
 
+[Back to Top](#top)  
+
 **RESOURCES:** At [sullivanclinton.com](/): See the [Map](/maps/) page, esp. Scene 3 and the actual map-image of the "[Invasion of Iroquoia](/images/maps/iroquoisinvasion.jpg);" plus [Period Texts](/texts/period/); and the compelling [Facts: Lost & Found](/texts/facts/); and informative [Articles](/texts/articles/): "[Refugees of Niagara 1779-1780: The Winter of Hunger](texts/articles/archives/000072.php)"; as well as the book [Fields of Fire](/products/), Morton Mintz's Seeds of Empire and Barbara Graymont's The Iroquois in the American Revolution. Further resources will be added in future updates.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR ALL STUDENTS:**
 
 Students should first navigate (several times) and carefully study each of the three scenes of the [Sullivan/Clinton Map](/maps/) on the website. Then ask students to write a description of what's going on in each scene. Then have students list (at least) one question(s) raised by any scene(s), which they'd be interested in learning more about. Assign each student to research one or more such questions in depth, then produce either (a) a written report; or (b) a class presentation, e.g., acting as a government official giving a briefing, a chief (sachem) at a Council Fire, or an eyewitness at a mock "press conference" taking questions from (student) reporters.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR HIGH-SCHOOL AND COLLEGE STUDENTS:**
 
@@ -274,7 +286,11 @@ Have students view Scene 3 of the [Sullivan/Clinton map](/maps/), which depicts 
 
 **OVERVIEW:** The Sullivan-Clinton Campaign of 1779 was the largest expedition ever before mounted against the Indians of North America. (It was the 2nd biggest such operation in U.S. history.) Deploying 6,200 troops — nearly 1/3 of the Continental Army — in the heat of the Revolution, Washington's aim was to forever crush Iroquois power and remove the tribes from their ancestral New York homelands — in one of Earth's most fertile and irrigated regions. He ordered that they "not be merely overrun, but destroyed."
 
+[Back to Top](#top)  
+
 **RESOURCES:** See Gen. Washington's "[Marching Orders](/archives/000103.php)," the first homepage entry at [sullivanclinton.com](/). See also, excerpts from Gen. Sullivan's Official Report both on the [Home Page](/) and in [Period Texts](/texts/period/). Read [Fields of Fire](/products/), Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](http://marketplacesolutions.net/secure/heritagebooks/merchant2/merchant.mvc?Screen=PROD&Store_Code=HBI&Product_Code=C1633), Morton Mintz's [Seeds of Empire](http://www.amazon.com/exec/obidos/tg/detail/-/0814756239/qid=1095190409/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and Barbara Graymont's [The Iroquois in the American Revolution](http://www.amazon.com/exec/obidos/tg/detail/-/0815601166/qid=1095190494/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+
+[Back to Top](#top)  
 
 **ASSIGNMENTS FOR HIGH-SCHOOL AND COLLEGE STUDENTS:**
 
@@ -290,13 +306,19 @@ In another assignment, students are asked to advise Washington on whether or not
 
 **OVERVIEW:** Out of roughly 50 villages, the Sullivan-Clinton Campaign destroyed (3) or confiscated (2) a total of five Iroquois capitals (called "castles," as in the Mohawk Lower Castle). Those destroyed belonged to the Cayuga (Goi-O-Guen), Onondaga (Onondaga), and Seneca (Little Beard's Town) nations. Those taken over were the Mohawks' two major villages (Upper and Lower Castles).
 
+[Back to Top](#top)  
+
 **RESOURCES:** See the following: The "[Tales of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery and the [Sullivan/Clinton Map](/maps/) and Scenes 1 and 9A of the interactive CD [MapSet](/products/). Also the Appendix of the book [Fields of Fire](/products/), which lists many of the road markers (and former sites) and where to go to find them in or near your area. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 **ASSIGNMENT FOR ELEMENTARY THROUGH HIGH-SCHOOL STUDENTS:**
 
 Take an online field trip. Create four study groups, or let each student choose one capital to research. Then, students should study Scenes 1, 2 and 3 of the [Sullivan/Clinton MapSet](/maps/) (or the CD), to see where and when the destruction took place. Next, students should locate these sites on a NY State road map, and notice how far from home they are. Third, students should visit the "[Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery. Fourth, students should use selected websites and library books to learn about Iroquois village life before the Sullivan-Clinton Campaign took place.
 
+[Back to Top](#top)  
+
 Students should then go into the [Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities) Gallery and the [Alternate Takes](/gallery/view_album.php?set_albumName=alternative) Gallery and do the following: (1) click to enlarge each image; (2) add a comment online for that photograph by clicking the "Comment" link and then filling in the form.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR ELEMENTARY THROUGH HIGH-SCHOOL STUDENTS:**
 
@@ -316,9 +338,13 @@ Under great pressure from both adversaries and with their future homelands hangi
 
 **RESOURCES:** In the [Map](/maps/) section of [sullivanclinton.com](/), Scene 2 of the MapSet shows how, in practice, the American Revolution divided the Iroquois Six Nations. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
+[Back to Top](#top)  
+
 **ASSIGNMENT FOR ALL STUDENTS:**
 
 Discuss what neutrality means. Then students can research the history of how the Iroquois' neutrality was violated and the Six Nations became divided. Have each student choose one of the Six Nations and research and write about its particular experience with neutrality: why and how they maintained their neutrality and how it was finally broken. Students should also write about which side was chosen and include their opinion on their Nation's final decision.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR COLLEGE STUDENTS:**
 
@@ -332,11 +358,15 @@ For group or individual assignment: Write an essay or make an in-class presentat
 
 **OVERVIEW:** The Three Sisters, "De-o-ha-ko," were corn, beans and squash. "De-o-ha-ko" means "the foods that sustain them." They were the basis of the traditional Iroquois diet, the foundation of their physical well-being and a key dimension of Iroquois spirituality. They were also targeted by the Sullivan-Clinton Campaign, which knowingly destroyed their abundant fields near the outset of the fall harvesting season.
 
+[Back to Top](#top)  
+
 **RESOURCES:** Carol Cornelius's fine book, [Iroquois Corn: In a Culture-Based Curriculum: A Framework for Respectfully Teaching about Cultures](http://www.amazon.com/exec/obidos/tg/detail/-/0791440281/qid=1095262967/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and consult Ganondagan's [House of Peace](http://ganondagan.org/video.html), Educational Video and Study Guide.
 
 **ASSIGNMENT FOR ELEMENTARY AND JUNIOR HIGH SCHOOL STUDENTS:**
 
 Students should research the Three Sisters, and then write a short essay about their significance to the Iroquois. Then write, illustrate or make up a variation of a traditional Iroquois story using the Three Sisters as characters within it. The story should try to impart a useful lesson(s) about daily life.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR HIGH-SCHOOL AND COLLEGE STUDENTS:**
 
@@ -351,7 +381,11 @@ Research the Three Sisters. Then write an essay about their physical and spiritu
 1.  determining what actually happened to Boyd and Parker and when,
 2.  assigning responsibility or blame for the two soldiers' tragic deaths.
 
+[Back to Top](#top)  
+
 **OVERVIEW:** The Boyd-Parker killings were dramatic and remain controversial. On the one hand, the two were killed by their Iroquois/Seneca captors. Their bodies were found in a bad state. On the other hand, Boyd's scouting party was trying to locate Little Beard's Town, the Seneca capital — and the Iroquois Western Door — in order to burn it down.. They two scouts were killed on or about September 14, sometime shortly before Little Beard's Town was totally destroyed on September 15\. Analysts disagree on whether they were disfigured before or after their actual deaths. Boyd and Parker are mostly remembered as heroes; indeed, they are the only individual victims of the ten thousand participants in the Sullivan-Clinton Campaign, white or red, who are widely remembered and memorialized. But there is also much to debate about these deaths and their circumstances and meanings: Are they simply heroes? Under what circumstances did they die? Who is finally responsible for their deaths?
+
+[Back to Top](#top)  
 
 **RESOURCES:** See the "[Boyd/Parker](/texts/hot/archives/000092.php)" entry (the first one in "[Hot Topics](/texts/hot/)" section). For an alternative, opposite outlook on Boyd/Parker see [vintageviews.org](http://www.vintageviews.org/vv-tl/pages/Boyd_Parker.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
@@ -359,9 +393,13 @@ Research the Three Sisters. Then write an essay about their physical and spiritu
 
 Assign students to write a 3—5 page position paper (or "legal brief"), which sets forth the relevant facts of the Boyd-Parker deaths and argues for a specific interpretation of the case. Students should closely consider: Who were Boyd and Parker?, and What were they doing on September 13, 1779? And, of course, who or what factors were ultimately responsible for their deaths? Then, assist the students in arranging a debate or a "mock trial," as described in assignments 2 and 3 below.
 
+[Back to Top](#top)  
+
 **ASSIGNMENT 2:**
 
 After the "legal briefs" are written, those assigned or willing should set up rival teams to debate who is responsible for Boyd and Parker's deaths. Some debating points to consider are: Was it the Indians who actually killed them? Was it General Washington who gave orders, or Generals Sullivan and Clinton, who destroyed the nearby Seneca Capital? Or, was it Lt. Boyd for disobeying his orders to come back before dawn and jeopardized his men?
+
+[Back to Top](#top)  
 
 **ASSIGNMENT 3:**
 
@@ -373,11 +411,19 @@ Set up a "mock trial" in which students volunteer (or are assigned, as is someti
 
 **OVERVIEW:** News correspondents are often right "on the spot" and ideal eyewitnesses to the events that happen around them. But only sometimes do they understand and report an event's full importance. Investigative reporters have more time to go deeper and develop a fuller, "big picture." And then, over time, work of both reporters is corrected, confirmed, or sometimes even disproven altogether by the work of historians. Today, news reports shape how we understand our world. Being a reporter during the Sullivan-Clinton Campaign would pose interesting and important challenges. The aim of this exercise is for students to report on the Campaign as an eyewitness reporter: either for an American newspaper, an English newspaper or an Iroquois council meeting. These different accounts will then be compiled, compared and contrasted.
 
+[Back to Top](#top)  
+
 **GOAL FOR JUNIOR HIGH SCHOOL STUDENTS:** Have students assume the role of an investigative journalist to increase their curiosity and interest in reporting about their world and interpreting the facts. Teachers should point out different biases at work, discuss what objectivity means, the difficulties in achieving it and how best to handle those difficulties.
+
+[Back to Top](#top)  
 
 **GOAL FOR HIGH-SCHOOL AND COLLEGE STUDENTS:** Studying the Boyd-Parker case, the class will consider how the wording of news reports can affect its meaning and influence how its history will later be written. Also, the goal is to show how writing — both news and history — reflects the different interests and biases of writers, reporters, and historians. Also, this will allow teachers and students to explore the larger idea that cultures with a written history have an advantage in leaving their accounts, whereas cultures with oral histories, should they so choose, may have a more difficult time in transmitting their accounts of their own stories. These accounts often conflict and complicate the questions under study.
 
+[Back to Top](#top)  
+
 **RESOURCES:** Actual (and often amazing) day-by-day journals by eyewitness officers can be found in Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](http://marketplacesolutions.net/secure/heritagebooks/merchant2/merchant.mvc?Screen=PROD&Store_Code=HBI&Product_Code=C1633). (Some can also be found online.) Also, see the [sullivanclinton.com](/) "[Articles](/texts/articles/)" section for Timothy Shaw's article, "[The Refugees of Niagara](/texts/articles/archives/refugees-niagara/)," the Interview with Peter Jemison in [Fields of Fire](/products/); and the essay, "In Sullivan/Clinton's Wake: What's Remembered and What's Forgotten, or How and Why its Scholarship Still Matters," by Robert Spiegelman, in the forthcoming Journal of the Chemung Valley Historical Society. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+
+[Back to Top](#top)  
 
 **ASSIGNMENTS FOR HIGH-SCHOOL AND COLLEGE STUDENTS:** Assign students to write a news report on the impact of the Sullivan-Clinton campaign on Iroquois Country. They should imagine being news correspondents in 1779 and traveling from town to town — with the Yankee soldiers, with the Iroquois or on their own — through Onondaga territory (in April), Seneca territory , Cayuga country, or the Mohawk Valley (all in September). Each student or small group (news team) should write three news stories. Before they start, ask them to consider: Will they support the Campaign and therefore leave things out? Will they condemn the Campaign and therefore also leave things out? Or, will they try to report everything they see? And, finally, have them think about what to do if and when they disagree with their editor about what to cover and how to write it.
 
@@ -401,6 +447,8 @@ Discuss Why the Battle of Newtown called a "battle" rather than a "massacre" lik
 
 **OVERVIEW:** We continually interact with images in the world around us.. Interpreting images is intriguing and complex. It can also be fun to "read" them. We often relate new images to images already stored in our memories. The captions or titles that often accompany images are used to try to tell viewers "exactly" what the photo or painting "really means." Some captions invite viewers to guess or think more deeply about the meaning(s) of the image.
 
+[Back to Top](#top)  
+
 Image interpretations are colored by personal experiences and personal social values. The website's [Galleries](/gallery/) are filled with interesting images. Some comment on the Sullivan-Clinton Campaign; some comment on how Indians have been and continue to be judged and treated by the majority culture. What is especially satisfying as well as maddening is that there's no final, fixed meaning of these images. So encourage students to interpret these images. Below are some ideas for how to proceed:
 
 **RESOURCES:** The Sullivan/Clinton website [Gallery](/gallery/) features 6 galleries and over 150 images. The six galleries are titled:
@@ -416,7 +464,11 @@ These images depict historical aspects of the Sullivan-Clinton Campaign and old 
 
 **Add Comments:** The Galleries enable you to assign students to enter comments on any of the images. Click on any image to enlarge it to fit the full-screen. A link appears at the bottom labeled "[add comment]". Simply click on it to open another window: this allows students enter any relevant comment they wish. Then just add the student's name (or nickname) and click "Save." The comment will automatically be displayed under the image (with its author's name). Students can revisit and add further comments and information over time
 
+[Back to Top](#top)  
+
 **Add Images:** This website Gallery section is available to any teacher who wants to start a class gallery on any Sullivan/Clinton or Iroquois-related topic. Students can then fill the gallery with pertinent images, titles and captions of their own. To set up a gallery, [contact us](/contact/).
+
+[Back to Top](#top)  
 
 **ASSIGNMENTS FOR ALL STUDENTS:**
 
@@ -432,9 +484,13 @@ These images depict historical aspects of the Sullivan-Clinton Campaign and old 
 
 **RESOURCES:** At [sullivanclinton.com](/), see documents and writings under [texts/facts](/texts/facts/) page and the Sullivan/Clinton [MapSet](/maps/), Scene 7\. Also see [The Erie Canal](http://www.history.rochester.edu/canal/) and [New York State Canals](http://www.canals.state.ny.us/cculture/history/finch/index.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
+[Back to Top](#top)  
+
 **ASSIGNMENT FOR ELEMENTARY AND JUNIOR HIGH STUDENTS:**
 
 Ask each student or team(s) of students to create two maps of western New York — one before and one after the Sullivan-Clinton Campaign. Based on their research in books and on the web (including the Mapset of the Sullivan/Clinton website), the students' maps should show as much detail as possible. Students should then compare the two maps and think critically about the influence of the Campaign on the region — that is, on the topography, county lines, towns, railroads and canals Locations of Indian reservations should be researched and represented. The maps should be presented to the class, and each student should explain what the map shows about the Campaign, its impact on the Iroquois Six Nations, and the future development of NY State.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR HIGH-SCHOOL AND COLLEGE STUDENTS:**
 
@@ -447,6 +503,8 @@ After background research, ask each student to write a critical essay explaining
 **GOAL:** To explore the enduring meaning and importance of the land and its health for the Iroquois/Haudenosaunee people. To raise awareness of the impact of economic development on indigenous peoples' homelands. To raise awareness of the possible consequences of economic development for the natural environment and on public health. To examine a case study in the fate, over time, of a former important Iroquois capital.
 
 **OVERVIEW:** On March 12, 1994, a section of the massive 6,000-acre Retsof salt mine collapsed under Cuylerville —site of the former Little Beard's Town, the Seneca capital. Underground water flooded the mines, threatening local wells and, most seriously, the underlying aquifer — the source of people's drinking water. The collapse allowed an underground lake of groundwater to enter the mine. Upwards of 20,000 gallons per minute was rushing into the mine, along with toxic gases. On September 2, 1995, the new mine owner — a giant Dutch multinational, Akzo Nobel — finally closed the mine under sustained public pressure. A few years later, a new salt mine was built nearby by the American Salt Company which posed new threats — including the prospect of destroying age-old Indian gravesites. This was hotly disputed and then shown to be a well-founded concern when remains were found. Today, plans for selling off methane gas continue to pose environmental concerns about the site, and monitoring continues to the present day.
+
+[Back to Top](#top)  
 
 **RESOURCES:** At [sullivanclinton.com](/), read the entry for "[Salt in the Wounds: The Mines at Little Beard's Town](/texts/hot/archives/000091.php)." In the "[Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery, view the images of Little Beard's Town (it is the site of the Boyd-Parker Park site), including the site of the Retsof Mine collapse and the American Salt Company mine works. See the website [ClarionCall](http://www.clarioncall.com/10akzo.html) for a lively overview of events from the Retsof collapse in 1995 to the end of 1999\. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
@@ -468,13 +526,19 @@ Assign students to research the long history of Little Beard's Town and of the c
 
 **RESOURCES:** The Internet offers useful sources on the location and activities of the Haudenosaunee/Iroquois people across North America. For a [quick glance](http://www.iloveny.com/travel_ideas/culture_il_map.asp) at Iroquois cultural and legacy resources in New York State. [Tuscaroras.com](http://tuscaroras.com/pages/six_nations_ex.html) provides locations and thumbnail summaries of the Six Nations today. Also, see the final scene 9A of the [Sullivan/Clinton Mapset](/maps/) and the "Legal Briefs" appendix of [Fields of Fire](/products/). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
+[Back to Top](#top)  
+
 **ASSIGNMENT FOR ELEMENTARY STUDENTS:**
 
 Write a first-person story about an Iroquois boy and/or girl from the pre-Sullivan/Clinton era who time-travels and lands in the New York State of today. Then comes the American Revolution and the Sullivan-Clinton Campaign. What would change? How would they feel? How would this affect them? What would they see that would frighten, offend or shock them? It is a productive way for young students to express their emotions about war and violence in an adult world that they must come to grips with.
 
+[Back to Top](#top)  
+
 **ASSIGNMENT FOR JUNIOR HIGH AND HIGH-SCHOOL STUDENTS:**
 
 Further investigate the journey the Iroquois refugees took from their New York capitals to Ft.Niagara in the winter of 1780\. Compare these experiences with those of any other refugees in the world today? Discuss why they are refugees, what could be done to help them now, and what could have been done to prevent their situation?
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR HIGH-SCHOOL STUDENTS:**
 
@@ -504,15 +568,23 @@ Have a round-table discussion with the whole class and brainstorm many of the co
 
 **OVERVIEW:** Timelines are very useful and powerful ways to organize information in a sequential way. They are essential for helping to make sense of larger events composed of several moments or incidents which otherwise would be haphazard and confusing. Students need to learn skills for deciphering them as well as for creating them. The goal of creating a timeline provides a good and concrete way for students to learn history and have something tangible and attractive — in text and/or pictorial form — to show for their efforts and to feel proud of. It helps promote the sense that they can make sense of history and make it available, through research, to themselves and to others.
 
+[Back to Top](#top)  
+
 **RESOURCES:** The Internet is well worth browsing to find a variety of useful concepts for both creating and representing timelines. Follow, for example, the evolution of the timeline on the Sullivan-Clinton website (coming soon). Consider purchasing [Timeliner 5.0](http://www.tomsnyder.com/products/product.asp?SKU=TIMV50) by Tom Snyder Productions; which enables students to create, illustrate and print timelines with comparative ease. It also allows teachers and students to publish them on the Web.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR ELEMENTARY SCHOOL STUDENTS:**
 
 First, introduce the class as a whole to what a timeline is, how to create one, and why they are useful for understanding events. Start with a simple one to cover the important events in each of their lives since they were first born. Then move the students to a medium level event such as the local history of people's towns or cities. Finally, start on a more complex time line for large-scale like the American Revolution, or the Sullivan-Clinton Campaign, or the making of the Erie Canal. Then help students to choose a large or related event that greatly interests them and create a timeline of that event as part of a term project.
 
+[Back to Top](#top)  
+
 **ASSIGNMENT FOR JUNIOR HIGH SCHOOL AND HIGH SCHOOL STUDENTS:**
 
 Divide the class into four groups and have each do research from library books and the Internet to create an initial timeline. The first two groups could focus, say, on the biggest events of Iroquois/Haudenosaunee history. After that, those two groups would come together and compare their separate timelines, then fill in the respective "blanks" by combining the missing elements from one another's work into a unified timeline. Meanwhile, the other two groups could focus on the Sullivan-Clinton Campaign. After that, those two groups would come together and compare their separate timelines, then fill in the respective "blanks" by combining the missing elements from one another's work into a unified timeline. Now, having an Iroquois Timeline and a Sullivan-Clinton timeline, the class as a whole can work on integrating the two. The resulting grand timeline will show where Sullivan-Clinton fits in the larger sweep of Iroquois history and how Iroquois history helps to explain the nature and consequences of the Sullivan-Clinton Campaign.
+
+[Back to Top](#top)  
 
 **ASSIGNMENT FOR COLLEGE STUDENTS:**
 
