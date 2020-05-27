@@ -12,5 +12,5 @@ layout: gallery_item
 collection: visual-gallery
 thumbnail: /images/gallery/simple/obj39/thumbnail.jpg
 full: /images/gallery/simple/obj39/full.jpg
-manifest: 
+ 
 ---

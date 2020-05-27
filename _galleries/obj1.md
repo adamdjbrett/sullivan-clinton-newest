@@ -5,12 +5,12 @@ location: Onondaga Nation
 label: america1777
 _date: '2005'
 object_type: painting
-current_location: 
-source: 
+current_location:
+source:
 order: '1'
 layout: gallery_item
 collection: visual-gallery
-thumbnail: /images/gallery/simple/obj1_01/thumbnail.jpg
-full: /images/gallery/simple/obj1_01/full.jpg
-manifest: 
+header:
+  thumbnail: /images/gallery/simple/obj1_01/thumbnail.jpg
+  full: /images/gallery/simple/obj1_01/full.jpg
 ---

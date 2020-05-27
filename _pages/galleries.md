@@ -2,7 +2,7 @@
 title: "Galleries"
 layout: collection
 permalink: /galleries/
-collection: gallery
+collection: galleries
 entries_layout: grid
 classes: wide
 ---

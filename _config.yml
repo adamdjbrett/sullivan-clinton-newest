@@ -297,7 +297,7 @@ defaults:
 # _galleries
   - scope:
       path: ""
-      type: gallery
+      type: galleries
     values:
       layout: single
       author_profile: false
