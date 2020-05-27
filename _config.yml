@@ -268,6 +268,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  galleries:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -289,6 +294,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+# _galleries
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # pdfs
   - scope:
       path: "media/files"

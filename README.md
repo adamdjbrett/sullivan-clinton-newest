@@ -3,12 +3,12 @@
 
 ## To Do
   - Gallery
-  - sidebar navigation
-    - donations
-    - products sidebar nav
   - fonts
   - colors
   - link checking
+  - remove products
+  - remove donations
+  - videos on YouTube
 
 ## done
 - remove
@@ -24,6 +24,7 @@
 - fix Videos
   - longredux
   - introOG
+- sidebar navigation  
 
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
