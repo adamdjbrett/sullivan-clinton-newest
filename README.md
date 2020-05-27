@@ -3,7 +3,9 @@
 
 ## To Do
   - Gallery
-    - find obj102
+    - add albums as categories
+    - add descriptions
+    - find 107
   - fonts
   - colors
   - link checking

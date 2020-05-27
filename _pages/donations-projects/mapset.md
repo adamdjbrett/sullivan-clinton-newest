@@ -8,7 +8,7 @@ permalink: /donations-projects/mapset/
 redirect_from:
   - /dp/popup02.html
   - /dp/mapset/
-  sidebar:
+sidebar:
     title: "Donations-Projects"
     nav: sidebar-donations  
 ---
