@@ -3,12 +3,14 @@
 
 ## To Do
   - Gallery
+    - find obj102
   - fonts
   - colors
   - link checking
   - remove products
   - remove donations
   - videos on YouTube
+
 
 ## done
 - remove

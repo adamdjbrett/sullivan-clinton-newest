@@ -1,16 +1,15 @@
 ---
 pid: obj66
-artist: 
-location: 
+artist:
+location:
 label: Melting Point
 _date: 5/7/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '66'
+header:
+  teaser: /images/gallery/simple/obj66/thumbnail.jpg
+  image: /images/gallery/simple/obj66/full.jpg
 
-
-teaser: /images/gallery/simple/obj66/thumbnail.jpg
-image: /images/gallery/simple/obj66/full.jpg
- 
 ---

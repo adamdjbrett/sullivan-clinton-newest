@@ -1,16 +1,15 @@
 ---
 pid: obj48
-artist: 
-location: 
+artist:
+location:
 label: Felled by Tomahawk
 _date: 5/26/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '48'
+header:
+  teaser: /images/gallery/simple/obj48/thumbnail.jpg
+  image: /images/gallery/simple/obj48/full.jpg
 
-
-teaser: /images/gallery/simple/obj48/thumbnail.jpg
-image: /images/gallery/simple/obj48/full.jpg
- 
 ---

@@ -1,16 +1,15 @@
 ---
 pid: obj23
-artist: 
-location: 
+artist:
+location:
 label: Torches to Plough Shares
 _date: 6/10/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '23'
+header:
+  teaser: /images/gallery/simple/obj23/thumbnail.jpg
+  image: /images/gallery/simple/obj23/full.jpg
 
-
-teaser: /images/gallery/simple/obj23/thumbnail.jpg
-image: /images/gallery/simple/obj23/full.jpg
- 
 ---

@@ -1,16 +1,15 @@
 ---
 pid: obj28
-artist: 
-location: 
+artist:
+location:
 label: Old Wine, New Bottle
 _date: 6/14/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '28'
+header:
+  teaser: /images/gallery/simple/obj28/thumbnail.jpg
+  image: /images/gallery/simple/obj28/full.jpg
 
-
-teaser: /images/gallery/simple/obj28/thumbnail.jpg
-image: /images/gallery/simple/obj28/full.jpg
- 
 ---

@@ -1,16 +1,15 @@
 ---
 pid: obj75
-artist: 
-location: 
+artist:
+location:
 label: At Wyalusing
 _date: 5/27/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '75'
+header:
+  teaser: /images/gallery/simple/obj75/thumbnail.jpg
+  image: /images/gallery/simple/obj75/full.jpg
 
-
-teaser: /images/gallery/simple/obj75/thumbnail.jpg
-image: /images/gallery/simple/obj75/full.jpg
- 
 ---

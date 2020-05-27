@@ -1,16 +1,15 @@
 ---
 pid: obj79
-artist: 
-location: 
+artist:
+location:
 label: Growing Corn
 _date: 5/27/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '79'
+header:
+  teaser: /images/gallery/simple/obj79/thumbnail.jpg
+  image: /images/gallery/simple/obj79/full.jpg
 
-
-teaser: /images/gallery/simple/obj79/thumbnail.jpg
-image: /images/gallery/simple/obj79/full.jpg
- 
 ---

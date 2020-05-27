@@ -1,16 +1,15 @@
 ---
 pid: obj58
-artist: 
-location: 
+artist:
+location:
 label: Lecture at the Smithsonian Museum of the American Indian
 _date: 3/25/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '58'
+header:
+  teaser: /images/gallery/simple/obj58/thumbnail.jpg
+  image: /images/gallery/simple/obj58/full.jpg
 
-
-teaser: /images/gallery/simple/obj58/thumbnail.jpg
-image: /images/gallery/simple/obj58/full.jpg
- 
 ---

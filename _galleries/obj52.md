@@ -1,16 +1,15 @@
 ---
 pid: obj52
-artist: 
-location: 
+artist:
+location:
 label: Forever Set in Stone
 _date: 5/26/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '52'
+header:
+  teaser: /images/gallery/simple/obj52/thumbnail.jpg
+  image: /images/gallery/simple/obj52/full.jpg
 
-
-teaser: /images/gallery/simple/obj52/thumbnail.jpg
-image: /images/gallery/simple/obj52/full.jpg
- 
 ---

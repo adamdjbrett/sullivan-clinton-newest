@@ -1,16 +1,15 @@
 ---
 pid: obj85
-artist: 
-location: 
+artist:
+location:
 label: Rt. 17 Corn Field
 _date: 6/11/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '85'
+header:
+  teaser: /images/gallery/simple/obj85/thumbnail.jpg
+  image: /images/gallery/simple/obj85/full.jpg
 
-
-teaser: /images/gallery/simple/obj85/thumbnail.jpg
-image: /images/gallery/simple/obj85/full.jpg
- 
 ---

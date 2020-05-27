@@ -1,16 +1,15 @@
 ---
 pid: obj26
-artist: 
-location: 
+artist:
+location:
 label: Boyd-Parker Park 1
 _date: 6/10/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '26'
+header:
+  teaser: /images/gallery/simple/obj26/thumbnail.jpg
+  image: /images/gallery/simple/obj26/full.jpg
 
-
-teaser: /images/gallery/simple/obj26/thumbnail.jpg
-image: /images/gallery/simple/obj26/full.jpg
- 
 ---

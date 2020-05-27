@@ -1,16 +1,15 @@
 ---
 pid: obj50
-artist: 
-location: 
+artist:
+location:
 label: Cherry Valley Massacre Monument
 _date: 5/26/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '50'
+header:
+  teaser: /images/gallery/simple/obj50/thumbnail.jpg
+  image: /images/gallery/simple/obj50/full.jpg
 
-
-teaser: /images/gallery/simple/obj50/thumbnail.jpg
-image: /images/gallery/simple/obj50/full.jpg
- 
 ---

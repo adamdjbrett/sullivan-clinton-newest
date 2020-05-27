@@ -1,16 +1,15 @@
 ---
 pid: obj27
-artist: 
-location: 
+artist:
+location:
 label: I'll Take Manhattan!
 _date: 6/14/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '27'
+header:
+  teaser: /images/gallery/simple/obj27/thumbnail.jpg
+  image: /images/gallery/simple/obj27/full.jpg
 
-
-teaser: /images/gallery/simple/obj27/thumbnail.jpg
-image: /images/gallery/simple/obj27/full.jpg
- 
 ---

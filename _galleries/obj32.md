@@ -1,16 +1,15 @@
 ---
 pid: obj32
-artist: 
-location: 
+artist:
+location:
 label: Stamped in History
 _date: 6/14/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '32'
+header:
+  teaser: /images/gallery/simple/obj32/thumbnail.jpg
+  image: /images/gallery/simple/obj32/full.jpg
 
-
-teaser: /images/gallery/simple/obj32/thumbnail.jpg
-image: /images/gallery/simple/obj32/full.jpg
- 
 ---

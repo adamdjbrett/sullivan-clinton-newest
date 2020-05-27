@@ -1,16 +1,15 @@
 ---
 pid: obj97
-artist: 
-location: 
+artist:
+location:
 label: Over Ancestral Bones
 _date: 6/8/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '97'
+header:
+  teaser: /images/gallery/simple/obj97/thumbnail.jpg
+  image: /images/gallery/simple/obj97/full.jpg
 
-
-teaser: /images/gallery/simple/obj97/thumbnail.jpg
-image: /images/gallery/simple/obj97/full.jpg
- 
 ---

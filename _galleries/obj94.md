@@ -1,16 +1,15 @@
 ---
 pid: obj94
-artist: 
-location: 
+artist:
+location:
 label: War Memorial
 _date: 6/8/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '94'
+header:
+  teaser: /images/gallery/simple/obj94/thumbnail.jpg
+  image: /images/gallery/simple/obj94/full.jpg
 
-
-teaser: /images/gallery/simple/obj94/thumbnail.jpg
-image: /images/gallery/simple/obj94/full.jpg
- 
 ---

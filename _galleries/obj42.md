@@ -1,16 +1,15 @@
 ---
 pid: obj42
-artist: 
-location: 
+artist:
+location:
 label: Drive to Tribes Hill
 _date: 6/14/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '42'
+header:
+  teaser: /images/gallery/simple/obj42/thumbnail.jpg
+  image: /images/gallery/simple/obj42/full.jpg
 
-
-teaser: /images/gallery/simple/obj42/thumbnail.jpg
-image: /images/gallery/simple/obj42/full.jpg
- 
 ---
