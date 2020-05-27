@@ -1,0 +1,22 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+</div>
+
+{% comment %}
+  The block below controls the item metadata table
+{% endcomment %}
+
+{% if layout.meta.size %}
+  {% assign metadata = layout.meta %}
+{% elsif page.meta.size %}
+  {% assign metadata = page.meta %}
+{% endif %}
+{% if metadata.size %}
+  {% include item_metadata.html meta=metadata %}
+{% endif %}
