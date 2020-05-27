@@ -8,9 +8,7 @@ object_type: painting
 current_location:
 source:
 order: '1'
-layout: gallery_item
-collection: visual-gallery
 header:
-  thumbnail: /images/gallery/simple/obj1_01/thumbnail.jpg
-  full: /images/gallery/simple/obj1_01/full.jpg
+  teaser: /images/gallery/simple/obj1_01/thumbnail.jpg
+  image: /images/gallery/simple/obj1_01/full.jpg
 ---

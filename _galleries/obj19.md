@@ -1,16 +1,15 @@
 ---
 pid: obj19
-artist: 
-location: 
+artist:
+location:
 label: Little Beards Town Marker
 _date: 6/10/06
 object_type: photo
-current_location: 
-source: 
+current_location:
+source:
 order: '19'
-layout: gallery_item
-collection: visual-gallery
-thumbnail: /images/gallery/simple/obj19/thumbnail.jpg
-full: /images/gallery/simple/obj19/full.jpg
- 
+header:
+  teaser: /images/gallery/simple/obj19/thumbnail.jpg
+  image: /images/gallery/simple/obj19/full.jpg
+
 ---

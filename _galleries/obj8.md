@@ -5,12 +5,10 @@ location: online
 label: Tazsunke Witko (Crazy Horse) est assailli
 _date: '1999'
 object_type: composite
-current_location: 
+current_location:
 source: http://www.ousmanesow.com
 order: '8'
-layout: gallery_item
-collection: visual-gallery
-thumbnail: /images/gallery/simple/obj8/thumbnail.jpg
-full: /images/gallery/simple/obj8/full.jpg
- 
+header:
+  teaser: /images/gallery/simple/obj8/thumbnail.jpg
+  image: /images/gallery/simple/obj8/full.jpg
 ---

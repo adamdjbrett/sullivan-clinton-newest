@@ -8,9 +8,9 @@ object_type: photo
 current_location: 
 source: 
 order: '96'
-layout: gallery_item
-collection: visual-gallery
-thumbnail: /images/gallery/simple/obj96/thumbnail.jpg
-full: /images/gallery/simple/obj96/full.jpg
+
+
+teaser: /images/gallery/simple/obj96/thumbnail.jpg
+image: /images/gallery/simple/obj96/full.jpg
  
 ---
