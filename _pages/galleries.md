@@ -9,13 +9,13 @@ sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
 feature_row:
-- image_path: /images/gallery/cover/
+- image_path: /images/gallery/cover/mother-earth.jpg
   alt: "Hecht Bend At Letchworth"
   title: "Mother Earth"
   url: "/categories/mother-earth/"
   btn_label: "View Mother Earth"
   btn_class: "btn--inverse"
-- image_path: /images/home/gallery.jpg
+- image_path: /images/gallery/cover/americana.jpg
   alt: "ZZZZZZZZZZZZ"
   title: "Americana"
   url: "/categories/americana/"

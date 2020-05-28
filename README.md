@@ -7,6 +7,9 @@
     - add GANONDAGAN! 	
     - THE 225th ANNIVERSARY EVENTS 	
     -  A GOOD DAY TO LIVE! 	
+    - gallery index page add feature rows
+    - update navigation.yml to include new categories.
+    - update gallery to include new images
   - fonts
   - colors
   - link checking
