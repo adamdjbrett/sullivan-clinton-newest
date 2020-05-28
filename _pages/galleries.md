@@ -85,7 +85,7 @@ feature_row:
   alt: "An Indigenous man posing next to a 'Cigar Store Indian' showing how harmful these representations are"
   title: "Hidden in Plain Sight"
   url: "/categories/hidden/"
-  btn_label: "View 225th"
+  btn_label: "View Hidden"
   btn_class: "btn--inverse"
 - image_path: /images/gallery/cover/proseminar.jpg
   title: "Proseminar"
