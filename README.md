@@ -14,7 +14,8 @@
       - add gallery: http://web.archive.org/web/20060622205559/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album05
       - add gallery: http://web.archive.org/web/20120205114103/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album02
       - add gallery: http://web.archive.org/web/20060622193407/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=A-Good-Day-to-Live%21
-      - add gallery: http://web.archive.org/web/20060622193328/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=hiddeninplainsite
+      - add gallery: http://web.archive.org/web/20060622193328/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=hiddeninplainsite\
+      - thumbnail should be 222x133
   - fonts
   - colors
   - link checking
