@@ -10,13 +10,14 @@
     - gallery index page add feature rows
     - update navigation.yml to include new categories.
     - update gallery to include new images
+    - Missing: Proseminar
   - fonts
   - colors
   - link checking
   - remove products
   - remove donations
+  - add all sites to footer
 
-  - Missing: Proseminar
 
 
 ## done
