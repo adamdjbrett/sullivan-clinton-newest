@@ -7,3 +7,4 @@ sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
 ---
+Traces from New York & Other Metropolises...

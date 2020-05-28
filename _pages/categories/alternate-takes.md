@@ -7,3 +7,4 @@ sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
 ---
+Alternative Viewpoints, from Here & There...

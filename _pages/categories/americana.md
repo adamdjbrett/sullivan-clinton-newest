@@ -7,3 +7,4 @@ sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
 ---
+Traditional and Patriotic Images, from Then & Now...

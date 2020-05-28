@@ -7,3 +7,4 @@ sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
 ---
+Haudenosaunee Images, Yesterday & Today...

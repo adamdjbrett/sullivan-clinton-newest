@@ -3,15 +3,17 @@
 
 ## To Do
   - Gallery
-    - add albums as categories
-    - add descriptions
     - find 107
+    - add GANONDAGAN! 	
+    - THE 225th ANNIVERSARY EVENTS 	
+    -  A GOOD DAY TO LIVE! 	
   - fonts
   - colors
   - link checking
   - remove products
   - remove donations
-  - videos on YouTube
+
+  - Missing: Proseminar
 
 
 ## done
@@ -29,6 +31,10 @@
   - longredux
   - introOG
 - sidebar navigation  
+- videos on YouTube
+- Gallery
+  - add albums as categories
+  - add descriptions
 
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
