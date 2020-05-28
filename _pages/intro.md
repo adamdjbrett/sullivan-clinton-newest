@@ -6,4 +6,7 @@ permalink: /intro/
 redirect_from: /intro.php
 ---
 
-[/videos/sullivan-clinton-introog.mp4](/videos/sullivan-clinton-introog.mp4)
+{% include video id="TX-QNqteR0A" provider="youtube" %}
+[watch on YouTube](https://youtu.be/TX-QNqteR0A)
+
+[Download Sullivan/Clinton website introduction](/videos/sullivan-clinton-introog.mp4)

@@ -5,6 +5,8 @@ header:
   image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /past-events/
+categories:
+  - notes
 ---
 
 ### Events 2006

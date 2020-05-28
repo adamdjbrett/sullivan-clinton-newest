@@ -14,7 +14,8 @@ sidebar:
 ---
 
 # Longhouse burning, a five-part meditation by Jeremy Zilar
-
+{% include video id="1J_hGElTU8Q" provider="youtube" %}
+[watch on YouTube](https://youtu.be/1J_hGElTU8Q)
 
 
 [![Longhouse on fire thumbnail image](/images/thumbs/thumblong.jpg)](/videos/longredux.mp4)

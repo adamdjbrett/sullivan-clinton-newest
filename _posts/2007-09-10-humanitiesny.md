@@ -5,6 +5,7 @@ excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 permalink: /archives/ny-humanities/
 categories:  
+  - notes
   - lectures
 ---
 Our Lectures Backed by NY Council for The Humanities

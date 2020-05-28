@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme: minimal-mistakes-jekyll
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -148,10 +148,12 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _site
   - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
@@ -160,6 +162,7 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
+  - Gemile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -211,11 +214,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Collections
-collections:
-  galleries:
-    output: true
-    permalink: /:collection/:path/
 
 # Plugins (previously gems:)
 plugins:
@@ -274,7 +272,7 @@ compress_html:
     envs: development
 
 
-
+# Defaults
 # Defaults
 defaults:
   # _posts
@@ -288,6 +286,17 @@ defaults:
       comments: # true
       share: true
       related: true
+  # galleries
+  - scope:
+      path: ""
+      type: galleries
+    values:
+      layout: galleries
+      author_profile: false
+      read_time: true
+      comments: # true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -295,16 +304,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _galleries
-  - scope:
-      path: ""
-      type: galleries
-    values:
-      layout: galleries
-      author_profile: false
-      share: true
-# Static file type defaults
-  # pdfs
+#  Static file type defaults
+    # pdfs
   - scope:
       path: "media/files"
     values:

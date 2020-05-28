@@ -4,7 +4,8 @@ date: '2007-11-01'
 excerpt_separator: "<!--more-->"
 author: bob-spiegelman
 permalink: /archives/accolades/
-categories:  
+categories:
+  - notes  
   - accolades
 ---
   - Past Exhibit @ the American Indian Community House (NY) -- AICH

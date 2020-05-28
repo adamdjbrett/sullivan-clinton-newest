@@ -4,7 +4,8 @@ date: '2020-04-13'
 author: bob-spiegelman
 excerpt_separator: "<!--more-->"
 permalink: /new-sources-sullivan-clinton/
-categories:  
+categories:
+  - notes
   - resource
 tags:
   - resource

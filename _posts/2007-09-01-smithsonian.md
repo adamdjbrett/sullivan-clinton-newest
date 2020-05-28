@@ -6,6 +6,7 @@ author: bob-spiegelman
 permalink: /archives/smithsonian-talk/
 redirect_from: /archives/000123/
 categories:
+  - notes
   - lectures
 ---
 [![Smithsonian lecture image](/images/thumbs/smiththumb.jpg)](/images/gallery/albums/smithsonian/CRW_7888.jpg)
