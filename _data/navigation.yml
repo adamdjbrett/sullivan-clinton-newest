@@ -46,29 +46,29 @@ sidebar-av:
   - title: "Art About Sullivan Clinton"
     children:
       - title: "Americana"
-      - url: /categories/americana/
+        url: /categories/americana/
       - title: "Alternate Takes"
-      - url: /categories/alternate-takes/
+        url: /categories/alternate-takes/
       - title: "Audio/Visual Art"
-      - url: /categories/audio-visual/
+        url: /categories/audio-visual/
       - title: "Big City Indians"
-      - url: /categories/big-city-indians/
+        url: /categories/big-city-indians/
       - title: "iroquoia"
-      - url: /categories/iroquoia/
+        url: /categories/iroquoia/
       - title: "Mixed-Media Art"
-      - url: /categories/mixed-media/
+        url: /categories/mixed-media/
       - title: "Mother Earth"
-      - url: /categories/mother-earth/
+        url: /categories/mother-earth/
       - title: "Pennsylvania Meets Sullivan/Clinton"
-      - url: /categories/pennsylvania/
+        url: /categories/pennsylvania/
       - title: "A Talk at the Smithsonian"
-      - url: /categories/smithsonian/
+        url: /categories/smithsonian/
       - title: "Tales of Survivors"
-      - url: /categories/tales-survivors/
+        url: /categories/tales-survivors/
       - title: "A Tale of Three Cities"
-      - url: /categories/three-cities/
+        url: /categories/three-cities/
       - title: "Galleries Main Page"
-      - url: /galleries/
+        url: /galleries/
 
 #sidebar donations
 sidebar-donations:
@@ -125,29 +125,29 @@ sidebar-gallery:
   - title: "Art About Sullivan Clinton"
     children:
       - title: "Americana"
-      - url: /categories/americana/
+        url: /categories/americana/
       - title: "Alternate Takes"
-      - url: /categories/alternate-takes/
+        url: /categories/alternate-takes/
       - title: "Audio/Visual Art"
-      - url: /categories/audio-visual/
+        url: /categories/audio-visual/
       - title: "Big City Indians"
-      - url: /categories/big-city-indians/
+        url: /categories/big-city-indians/
       - title: "iroquoia"
-      - url: /categories/iroquoia/
+        url: /categories/iroquoia/
       - title: "Mixed-Media Art"
-      - url: /categories/mixed-media/
+        url: /categories/mixed-media/
       - title: "Mother Earth"
-      - url: /categories/mother-earth/
+        url: /categories/mother-earth/
       - title: "Pennsylvania Meets Sullivan/Clinton"
-      - url: /categories/pennsylvania/
+        url: /categories/pennsylvania/
       - title: "A Talk at the Smithsonian"
-      - url: /categories/smithsonian/
+        url: /categories/smithsonian/
       - title: "Tales of Survivors"
-      - url: /categories/tales-survivors/
+        url: /categories/tales-survivors/
       - title: "A Tale of Three Cities"
-      - url: /categories/three-cities/
+        url: /categories/three-cities/
       - title: "Galleries Main Page"
-      - url: /galleries/
+        url: /galleries/
       - title: "Introduction Video"
         url: /intro/
       - title: "Longhouse Burning"
