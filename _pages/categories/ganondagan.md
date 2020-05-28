@@ -1,7 +1,7 @@
 ---
 title: "Ganondagan"
 layout: category
-permalink: /categories/Ganondagan/
+permalink: /categories/ganondagan/
 taxonomy: ganondagan
 sidebar:
   title: "Photo Galleries"

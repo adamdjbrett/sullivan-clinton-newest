@@ -11,7 +11,6 @@
     - update navigation.yml to include new categories.
     - update gallery to include new images
     - Missing: Proseminar
-      - add gallery: http://web.archive.org/web/20060622205559/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album05
       - add gallery: http://web.archive.org/web/20120205114103/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album02
       - add gallery: http://web.archive.org/web/20060622193407/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=A-Good-Day-to-Live%21
       - add gallery: http://web.archive.org/web/20060622193328/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=hiddeninplainsite\
@@ -22,8 +21,6 @@
   - remove products
   - remove donations
   - add all sites to footer
-
-
 
 ## done
 - remove
@@ -44,6 +41,8 @@
 - Gallery
   - add albums as categories
   - add descriptions
+  - add gallery: http://web.archive.org/web/20060622205559/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album05
+
 
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
