@@ -12,7 +12,7 @@ After five days in April and four weeks in September, almost all of Iroquoia was
 While these figures vary, all show an earth-shaking defeat for America's native peoples that cannot truly be expressed in numbers; one that still lingers today - often hidden in plain sight or deep in people's souls. Against this background, a hard-won foothold in NY and Rebirth of Iroquoia have been well underway...
 
 So, keep scrolling! You'll _quickly_ get the whole picture, from Then to Now!
-***
+
 
 ## Mission
 The past endures, often hidden in plain sight. All around our neighborhoods, there are shards and bits, pieces to reassemble and dots to reconnect. Knee-deep in broken links, we look but fail to see. We walk or drive but don't know what lies underfoot, or what is just around the corner, or even wonder why it's there at all. Some label this our "historical amnesia," and just leave it at that. But there really are reasons for things; and being true to our basic curiosity - asking the spontaneous "why?," that bubbles over in children - is the best way to learn them.

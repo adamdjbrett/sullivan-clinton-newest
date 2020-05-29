@@ -22,7 +22,7 @@ permalink: '/credits/'
   - [Table of Contents](https://github.com/allejo/jekyll-toc)
 
 ## Photos by:  
-  - Robert Spiegelman, [Generose Cervenka-Lambert](http://www.agbdesign.com), [Clint Fisher Art](http://clintfisherart.com),  
+  - Robert Spiegelman, [Generose Cervenka-Lambert](http://www.agbdesign.com), Clint Fisher Art,  
 & [John Francis McCarthy](http://johnfrancismccarthy.com/the_artist.htm)  
 
 ## Video by:  
@@ -33,4 +33,4 @@ permalink: '/credits/'
 
 ***
 ## Original Site by:  
-  - [Clint Fisher Art](http://www.clintfisherart.com/), [Jeremy Zilar](http://silencematters.com), [David Correll,](http://www.davidcorrell.net/) & Robert Spiegelman
+  - Clint Fisher Art, [Jeremy Zilar](http://silencematters.com), [David Correll,](http://www.davidcorrell.net/) & Robert Spiegelman

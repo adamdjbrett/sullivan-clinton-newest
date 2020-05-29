@@ -288,7 +288,7 @@ Have students view Scene 3 of the [Sullivan/Clinton map](/maps/), which depicts 
 
 [Back to Top](#top)  
 
-**RESOURCES:** See Gen. Washington's "[Marching Orders](/archives/000103.php)," the first homepage entry at [sullivanclinton.com](/). See also, excerpts from Gen. Sullivan's Official Report both on the [Home Page](/) and in [Period Texts](/texts/period/). Read [Fields of Fire](/products/), Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](http://marketplacesolutions.net/secure/heritagebooks/merchant2/merchant.mvc?Screen=PROD&Store_Code=HBI&Product_Code=C1633), Morton Mintz's [Seeds of Empire](http://www.amazon.com/exec/obidos/tg/detail/-/0814756239/qid=1095190409/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and Barbara Graymont's [The Iroquois in the American Revolution](http://www.amazon.com/exec/obidos/tg/detail/-/0815601166/qid=1095190494/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** See Gen. Washington's "[Marching Orders](/archives/000103.php)," the first homepage entry at [sullivanclinton.com](/). See also, excerpts from Gen. Sullivan's Official Report both on the [Home Page](/) and in [Period Texts](/texts/period/). Read [Fields of Fire](/products/), Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](https://catalog.hathitrust.org/Record/000362150), Morton Mintz's [Seeds of Empire](http://www.amazon.com/exec/obidos/tg/detail/-/0814756239/qid=1095190409/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and Barbara Graymont's [The Iroquois in the American Revolution](http://www.amazon.com/exec/obidos/tg/detail/-/0815601166/qid=1095190494/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 [Back to Top](#top)  
 
@@ -360,7 +360,7 @@ For group or individual assignment: Write an essay or make an in-class presentat
 
 [Back to Top](#top)  
 
-**RESOURCES:** Carol Cornelius's fine book, [Iroquois Corn: In a Culture-Based Curriculum: A Framework for Respectfully Teaching about Cultures](http://www.amazon.com/exec/obidos/tg/detail/-/0791440281/qid=1095262967/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and consult Ganondagan's [House of Peace](http://ganondagan.org/video.html), Educational Video and Study Guide.
+**RESOURCES:** Carol Cornelius's fine book, [Iroquois Corn: In a Culture-Based Curriculum: A Framework for Respectfully Teaching about Cultures](http://www.amazon.com/exec/obidos/tg/detail/-/0791440281/qid=1095262967/sr=1-1/ref=sr_1_1/103-2275292-2462243?v=glance&s=books) and consult Ganondagan's [House of Peace](https://ganondagan.org/), Educational Video and Study Guide.
 
 **ASSIGNMENT FOR ELEMENTARY AND JUNIOR HIGH SCHOOL STUDENTS:**
 
@@ -387,7 +387,7 @@ Research the Three Sisters. Then write an essay about their physical and spiritu
 
 [Back to Top](#top)  
 
-**RESOURCES:** See the "[Boyd/Parker](/texts/hot/archives/000092.php)" entry (the first one in "[Hot Topics](/texts/hot/)" section). For an alternative, opposite outlook on Boyd/Parker see [vintageviews.org](http://www.vintageviews.org/vv-tl/pages/Boyd_Parker.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** See the "[Boyd/Parker](/texts/hot/archives/000092.php)" entry (the first one in "[Hot Topics](/texts/hot/)" section). For an alternative, opposite outlook on Boyd/Parker see [vintageviews.org](http://web.archive.org/web/20120212191837/http://www.vintageviews.org/vv-tl/pages/Boyd_Parker.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 **ASSIGNMENT 1:**
 
@@ -421,7 +421,7 @@ Set up a "mock trial" in which students volunteer (or are assigned, as is someti
 
 [Back to Top](#top)  
 
-**RESOURCES:** Actual (and often amazing) day-by-day journals by eyewitness officers can be found in Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](http://marketplacesolutions.net/secure/heritagebooks/merchant2/merchant.mvc?Screen=PROD&Store_Code=HBI&Product_Code=C1633). (Some can also be found online.) Also, see the [sullivanclinton.com](/) "[Articles](/texts/articles/)" section for Timothy Shaw's article, "[The Refugees of Niagara](/texts/articles/archives/refugees-niagara/)," the Interview with Peter Jemison in [Fields of Fire](/products/); and the essay, "In Sullivan/Clinton's Wake: What's Remembered and What's Forgotten, or How and Why its Scholarship Still Matters," by Robert Spiegelman, in the forthcoming Journal of the Chemung Valley Historical Society. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** Actual (and often amazing) day-by-day journals by eyewitness officers can be found in Frederick Cook, ed., [Journals of the Military Expedition of Major General John Sullivan Against the Six Nations of Indians in 1779](https://catalog.hathitrust.org/Record/000362150). (Some can also be found online.) Also, see the [sullivanclinton.com](/) "[Articles](/texts/articles/)" section for Timothy Shaw's article, "[The Refugees of Niagara](/texts/articles/archives/refugees-niagara/)," the Interview with Peter Jemison in [Fields of Fire](/products/); and the essay, "In Sullivan/Clinton's Wake: What's Remembered and What's Forgotten, or How and Why its Scholarship Still Matters," by Robert Spiegelman, in the forthcoming Journal of the Chemung Valley Historical Society. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 [Back to Top](#top)  
 
@@ -482,7 +482,7 @@ These images depict historical aspects of the Sullivan-Clinton Campaign and old 
 
 **OVERVIEW:** The Erie Canal (completed in 1825) was a monumental engineering and commercial achievement — America's Grand Canal, the great link between East and West, the main Artery of Commerce, the Internet of its day. Ultimately, the Erie Canal was made possible by Sullivan/Clinton's removal of the Iroquois from central and western New York and by the land treaties that compressed what remained of the Six Nations into small parcels of land. All this, in turn, had great impact downstate, especially as the Erie Canal made possible Manhattan's rise to national and world financial preeminence. The Canal was opened with a 363-mile journey across western NY, from Buffalo to Albany, and then down the Hudson River to New York City. Few people are aware that its lead barge was named The Seneca Chief. Or that its most prominent passenger was New York's Governor DeWitt Clinton — the son of General James Clinton. The Erie Canal is part of the forgotten legacy of the Sullivan-Clinton Campaign and vise versa.
 
-**RESOURCES:** At [sullivanclinton.com](/), see documents and writings under [texts/facts](/texts/facts/) page and the Sullivan/Clinton [MapSet](/maps/), Scene 7\. Also see [The Erie Canal](http://www.history.rochester.edu/canal/) and [New York State Canals](http://www.canals.state.ny.us/cculture/history/finch/index.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** At [sullivanclinton.com](/), see documents and writings under [texts/facts](/texts/facts/) page and the Sullivan/Clinton [MapSet](/maps/), Scene 7\. Also see [The Erie Canal](http://web.archive.org/web/20120214050014/http://www.history.rochester.edu/canal/) and [New York State Canals](http://web.archive.org/web/20060223221525/http://www.canals.state.ny.us/cculture/history/finch/index.html). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 [Back to Top](#top)  
 
@@ -524,7 +524,7 @@ Assign students to research the long history of Little Beard's Town and of the c
 
 **OVERVIEW:** Between 1779 and the mid-19th, the sovereign Haudenosaunee people were almost totally removed from New York by the combination of the Sullivan-Clinton Campaign and the land treaties that followed. Today their descendants continue to live in cities, towns and reservations in New York as well as in far-flung places stretching from Ontario, Canada, to Wisconsin to Oklahoma. Learning about the plight of Iroquois refugees and exiles in 1779 and thereafter can help students to better understand the plight of refugees in the world and media today — in places like the Middle East and Africa.
 
-**RESOURCES:** The Internet offers useful sources on the location and activities of the Haudenosaunee/Iroquois people across North America. For a [quick glance](http://www.iloveny.com/travel_ideas/culture_il_map.asp) at Iroquois cultural and legacy resources in New York State. [Tuscaroras.com](http://tuscaroras.com/pages/six_nations_ex.html) provides locations and thumbnail summaries of the Six Nations today. Also, see the final scene 9A of the [Sullivan/Clinton Mapset](/maps/) and the "Legal Briefs" appendix of [Fields of Fire](/products/). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** The Internet offers useful sources on the location and activities of the Haudenosaunee/Iroquois people across North America. For a [quick glance](http://www.iloveny.com/travel_ideas/culture_il_map.asp) at Iroquois cultural and legacy resources in New York State. [Tuscaroras.com](http://tuscaroras.com) provides locations and thumbnail summaries of the Six Nations today. Also, see the final scene 9A of the [Sullivan/Clinton Mapset](/maps/) and the "Legal Briefs" appendix of [Fields of Fire](/products/). Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 [Back to Top](#top)  
 

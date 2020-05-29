@@ -16,20 +16,20 @@ categories:
     - We lecture during the unique annual tour of Pennsylvania's half of the saga.
   - COMING Sat., Oct. 7: [Presenting "Sullivan-Clinton & Empire"](http://www.iroquoismuseum.org/) Place: Rensselaerville NY
     - [http://www.iroquoismuseum.org/](http://www.iroquoismuseum.org/)
-  - COMING Oct. 17: [Presenting "Sullivan-Clinton Campaign: Then & Now"](http://www.peacecouncil.net/NOON/)
+  - COMING Oct. 17: [Presenting "Sullivan-Clinton Campaign: Then & Now"](http://peacecouncil.net/noon)
     - Place: the Finding Common Ground Teach-In, Syracuse U/ ESF
     - Time: 3:20-4:20pm
-    - Link: [http://www.peacecouncil.net/NOON/](http://www.peacecouncil.net/NOON/)
+    - Link: [http://peacecouncil.net/noon](http://peacecouncil.net/noon)
 
 - COMING Sat., Oct. 21: [Workshop on "Multimedia Approaches to Iroquois Themes"](http://www.nysoea.org/)
   - Place: the Annual NYS Outdoor Educator's Conference   in N. Java NY
   - Time: 1-4:15pm
   - Link: [http://www.nysoea.org/](http://www.nysoea.org/)
 
-- COMING Fri., Oct. 27: [Presenting "New York's Missing Link: The Sullivan-Clinton Campaign"](http://www.mapacagazette.net)
+- COMING Fri., Oct. 27: [Presenting "New York's Missing Link: The Sullivan-Clinton Campaign"](http://web.archive.org/web/20080611055335/http://www.mapacagazette.net/)
  - Place: the Mid-Atlantic Popular/American Culture Association Conference in Baltimore
  - Time: Session 5.3 @ 3-4:15pm
- - Link: [http://www.mapacagazette.net](http://www.mapacagazette.net)
+ - Link: [http://web.archive.org/web/20080611055335/http://www.mapacagazette.net/](http://web.archive.org/web/20080611055335/http://www.mapacagazette.net/)
 
 - Coming Nov. 16-17: [Presenting "Sullivan-Clinton and the Environment"](http://nystatehistory.org/)
   - Place: the Annual Researching New York Conference, SUNY Albany
