@@ -124,6 +124,10 @@ sidebar-products:
 sidebar-gallery:
   - title: "Art About Sullivan Clinton"
     children:
+      - title: "Galleries Main Page"
+        url: /galleries/
+      - title: "A Good Day to Live"
+        url: /categories/good-day/
       - title: "Americana"
         url: /categories/americana/
       - title: "Alternate Takes"
@@ -132,6 +136,12 @@ sidebar-gallery:
         url: /categories/audio-visual/
       - title: "Big City Indians"
         url: /categories/big-city-indians/
+      - title: "Ganondagan"
+        url: /categories/ganondagan/
+      - title: "A Good Day to Live"
+        url: /categories/good-day/
+      - title: "Hidden in Plain Sight"
+        url: /categories/hidden/
       - title: "iroquoia"
         url: /categories/iroquoia/
       - title: "Mixed-Media Art"
@@ -140,14 +150,16 @@ sidebar-gallery:
         url: /categories/mother-earth/
       - title: "Pennsylvania Meets Sullivan/Clinton"
         url: /categories/pennsylvania/
+      - title: "Proseminar"
+        url: /categories/proseminar/
       - title: "A Talk at the Smithsonian"
         url: /categories/smithsonian/
       - title: "Tales of the Survivors"
         url: /categories/tales-survivors/
       - title: "A Tale of Three Cities"
         url: /categories/three-cities/
-      - title: "Galleries Main Page"
-        url: /galleries/
+      - title: "The 225th Anniversary Events"
+        url: /categories/two-hundred-twentyfifth/
       - title: "Introduction Video"
         url: /intro/
       - title: "Longhouse Burning"
