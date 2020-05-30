@@ -1,10 +1,10 @@
 # Sullivan Clinton Campaign
 ## 2.0
 
+## Notes
+  - Gallery thumbnail should be 222x133
+
 ## To Do
-  - Gallery
-    - update gallery to include new recovered images images
-    - Gallery thumbnail should be 222x133
   - remove products
   - remove donations
 
@@ -25,6 +25,7 @@
 - sidebar navigation  
 - videos on YouTube
 - Gallery
+  - update gallery to include new recovered images images
   - add albums as categories
   - add descriptions
   - add gallery: http://web.archive.org/web/20060622205559/http://www.sullivanclinton.com/gallery/view_album.php?set_albumName=album05
