@@ -1,5 +1,5 @@
 ---
-title: 'Blog for Sullivan/Clinton Campaign, Then and Now'
+title: 'Blog'
 permalink: /blog/
 ---
 
