@@ -5,9 +5,6 @@
   - Gallery
     - update gallery to include new recovered images images
     - Gallery thumbnail should be 222x133
-  - fonts
-  - colors
-  - link checking
   - remove products
   - remove donations
 
@@ -42,6 +39,10 @@
   - update navigation.yml to include new categories.
   - find 107 - duplicate
 - add all sites to footer
+- fonts
+- colors
+- link checking
+
 
 
 
