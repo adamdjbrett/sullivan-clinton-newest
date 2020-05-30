@@ -5,6 +5,7 @@ header:
   image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /bio/
+author_profile: true
 ---
 Bob Spiegelman has been a freelance author and film producer, screenwriter, project-developer, multimedia advisor, research director and story consultant on a growing array of film, museum and multimedia projects. He regularly addresses audiences across NY and Pennsylvania and is officially appointed to the highly-regarded [**Speakers List**](http://www.nyhumanities.org/) of the New York Council for the Humanities.
 
