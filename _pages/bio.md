@@ -1,8 +1,6 @@
 ---
 title: 'Bio for Bob Spiegelman'
 date: '2005-06-13'
-header:
-  image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /bio/
 author_profile: true

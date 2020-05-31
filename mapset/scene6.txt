@@ -1,0 +1,18 @@
+scrollText=<font face="georgia, serif"><font size="18"><font color="#990000"><b><p>The Spoils of Victory</p></b></font></font></font>
+<br>
+<font face="arial">
+<font size="14">
+<font color="#999999">
+<b><p>After the Revolutionary War, the lands of Iroquoia first became part of the public domain, then were given to Massachusetts and New York, then quickly turned into a few private land empires and a few small Indian reservations. The original Haudenosaunee territories were surveyed, taken away by treaty and sold off to speculators. This scene shows some of the major acquisitions before 1800.</p></font>
+<br>
+<font color="#FFFFFF">
+<p>In 1781, New York authorized a military tract to pay off soldiers and officers. In, 1788, Indian titles to it were extinguished by the Ft. Stanwix Treaty. And, in 1789, 1.75 million acres were surveyed and allotted to some soldiers and officers in the absence of pay. Known as the Military Tract, it was subdivided into 26 (later 28) townships with 'civilized' names. Some got Greek or Roman names like Ulysees, Brutus, Hannibal, Hector and Homer. Others got English names like Locke, Dryden and Stirling. Many acres were sold to big land companies and speculators. Their former Iroquois place names became things of the past.</p>
+<br>
+<p>Other vast regions of New York land were sold off to wealthy speculators. One such team was Oliver Phelps and Nathaniel Gorham (1788), who bought 6 million acres (owned by the State Massachusetts) called the Phelps-Gorham Purchase. When they failed to keep up payments, their lands were sold off to Robert Morris, who amassed 5 million acres. Known as "the financier of the American Revolution," Morris was America's richest man and his purchase was the largest in North America.</p>
+<br>
+<p>When Morris's fortunes suddenly declined, he sold off 3.25 million acres to the Dutch-owned Holland Land Company (1791/2). He'd also sell another 1.2 million acres to the London-based Pulteney Associates. But to finalize the Holland Land Purchase, Morris first had to terminate the Seneca's remaining land claims. He did so at the Big Tree Treaty Conference (1797), near the former Little Beard's Town, using alcohol, bribery, divisive gift-giving and non-stop pressure to sell. The Holland Purchase totaled 3.25 million acres. Morris initially kept 500,000 acres for himself, known as the Morris Reserve (1797).</p>    
+</font>
+<br>
+<font color="#999999">
+<p>As Iroquoia was gradually surveyed, parceled and sold off, the pathway was opened for Western Settlement. However, the steady stream of new settlers would soon become a flood tide with the completion of the Erie Canal (1825).
+</p></b></font>

@@ -1,8 +1,6 @@
 ---
-title: links
+title: Links
 date: '2005-06-13'
-header:
-  image: /images/headers/sky.jpg
 author: bob-spiegelman
 permalink: /links/
 toc: true
@@ -26,7 +24,7 @@ This fine library aims to be the foremost repository for Sullivan Clinton materi
 This site provides excellent access to a broad range of NY State's historical assets.
 
 - **[Ganondagan/Friends of Ganondagan](http://ganondagan.org/)**
-A century before Sullivan-Clinton, was Ganondagan: the French sent 3200 soldiers to burn it down, destroy the Seneca and eliminate them from the international fur trade. It is now a compelling NY State Historic Site and can be supported through its [**Friends</span>](http://ganondagan.org/).
+A century before Sullivan-Clinton, was Ganondagan: the French sent 3200 soldiers to burn it down, destroy the Seneca and eliminate them from the international fur trade. It is now a compelling NY State Historic Site and can be supported through its [**Friends**](http://ganondagan.org/).
 
 - **[Iroquois Indian Museum](http://iroquoismuseum.org)**
 Well worthwhile and engaging museum of Iroquois culture and art, past and present, with educational programs and outreach for youngsters and adults.
@@ -42,7 +40,7 @@ A great historical tourism outfit with multi-perspectival bus tours of Sullivan/
 
 ## AFFILIATED ARTISTS
 
-- **[cFA | Clint Fisher Art](http://clintfisherart.com)** [art director/web designer]  
+- **Clint Fisher Art** [art director/web designer]  
 Site of art/design/photography work with a focus on aesthetics.
 
 - **[John Francis McCarthy](http://johnfrancismccarthy.com/the_artist.htm)** [photographer]  

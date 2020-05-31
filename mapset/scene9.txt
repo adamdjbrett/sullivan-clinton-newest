@@ -1,0 +1,16 @@
+scrollText=<font face="georgia, serif"><font size="18"><font color="#990000"><b><p>New York: The Empire State</p></b></font></font></font>
+<br>
+<font face="arial">
+<font size="14">
+<font color="#999999">
+<b><p>What once was Iroquoia - networks of villages, fields, orchards, woods, clearances, rivers, trade rotes and hunting grounds - has become a Developer's Paradise. Today, New York State is honeycombed by over one hundred thousand miles of super Highways, county and rural roadways, airport runways and barge and boat Canals.</p></font>
+<br>
+<font color="#FFFFFF">
+<p>New York State's Empire State Development agency officially describes this infrastructure as follows: "New York has over 500 airports and landing facilities and direct flights to over 150 cities worldwide. The State harbors thousands of miles of rivers, 33 deep-river ports, and ready access to the Great Lakes, St. Lawrence Seaway and the world's oceans. New York's roadways span 112,000 miles and its interstate highways cross 1,500 miles. New York has more than 4,000 miles of freight and passenger railways. Our transportation systems, northeast crossroads location and shared border with Canada give New York-based businesses a competitive edge." New York is also divided into 71 "Empire Zones" to promote its economic growth.</p>
+<br>
+<p>Completed in 1956, the New York State Thruway (Interstate 90 and 87) became the Empire State's new Grand Canal. Between Buffalo and Albany, its I-90 roughly parallels (and intersects) the old Erie Canal; and between Albany and New York City, it (I-87) closely parallels (and crosses) the Hudson River. Today the state Canal System still exists as a 524-mile, commercially viable waterway linking the Hudson River with the Great Lakes, Finger Lakes, and Lake Champlain. </p>
+</font>
+<br>
+<font color="#999999">
+<p>Thruway legislation consciously named its major sections old Indian Trails: the Iroquois Trail (the mainline between New York City and Buffalo), the Erie Path (the Erie Extension), the Mohican Path (the New England Thruway), the Algonquin Path (the Berkshire Extension) and the Tuscarora Path (the Niagara Extension). Also, the Lower Mohawk Castle has been erased by the Mohawk and Indian Castle Service Areas (at mile 210) of the New York State Thruway. In this way, New York's Superhighway planners have subsumed the pathways that once linked indigenous nations and homelands across the New York region. 
+</p></b></font>
