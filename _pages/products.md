@@ -1,5 +1,5 @@
 ---
-title: 'Contact'
+title: 'Products'
 date: '2020-04-13'
 author: bob-spiegelman
 permalink: /products/
