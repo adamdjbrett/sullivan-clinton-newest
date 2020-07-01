@@ -22,10 +22,6 @@ main:
     url: /links/
   - title: "Education"
     url: /education/
-  - title: "Donations"
-    url: /donations-projects/
-  - title: "Products"
-    url: /products/
   - title: "Credits"
     url: /credits/
   - title: "Sitemap"
