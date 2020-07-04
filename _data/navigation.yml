@@ -24,6 +24,8 @@ main:
     url: /education/
   - title: "Credits"
     url: /credits/
+  - title: "Privacy Policy"
+    url: /privacy/
   - title: "Sitemap"
     url: /sitemap/
 
