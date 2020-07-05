@@ -6,6 +6,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.bundle/config
+.bundle/
+vendor/
 
 # End of https://www.gitignore.io/api/jekyll
 *.lock
