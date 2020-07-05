@@ -1,7 +1,7 @@
 #main links
 main:
-  - title: "Home"
-    url: /
+  - title: "Introduction"
+    url: /intro/
   - title: "About"
     url: /about/
   - title: "Texts"
@@ -12,8 +12,6 @@ main:
     url: /galleries/
   - title: "Audio/Visual"
     url: /audiovisual/
-  - title: "Introduction"
-    url: /intro/
   - title: "Contact"
     url: /contact/
   - title: "Bio"
