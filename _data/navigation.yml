@@ -93,29 +93,6 @@ sidebar-texts:
       - title: "Texts"
         url: /categories/texts/
 
-#sidebar products
-sidebar-products:
-  - title: "Support Sullivan Clinton"
-    children:
-      - title: "Educator's Guide"
-        url: /products/educators-guide/
-      - title: "Shirts"
-        url: /products/shirts/
-      - title: "Facts"
-        url: /categories/facts/
-      - title: "Hot"
-        url: /categories/hot/
-      - title: "Period Texts"
-        url: /categories/period/
-      - title: "Texts"
-        url: /categories/texts/
-      - title: "Donations and Projects"
-        url: /donations-projects/
-      - title: "Purchase Fields of Fire"
-        url: /donations-projects/fields-fire/
-      - title: "Purchase Mapset"
-        url: /donations-projects/mapset/
-
 #sidebar Galleries
 sidebar-gallery:
   - title: "Art About Sullivan Clinton"
