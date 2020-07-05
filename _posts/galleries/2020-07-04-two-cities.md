@@ -1,5 +1,11 @@
 ---
+pid: obj175
 title:  "Full Gallery for A Tale of Three Cities"
+_date: '2008'
+object_type: photo
+current_location: New York
+source: 'sullivanclinton.com'
+label: '176'
 categories:
   - gallery
   - three-cities
