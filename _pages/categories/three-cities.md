@@ -9,6 +9,4 @@ sidebar:
 ---
   - The Onondaga capital, Little Beard's Town, site of the Western Door, was burnt on Sept. 14-15, 1779. At Rt. 39, near Geneseo.
   - The Seneca capital, Little Beard's Town, site of the Western Door, was burnt on Sept. 14-15, 1779. At Rt. 39, near Geneseo.
-  - The Cayuga capital, Goi-O-Guen, was burnt on Sept. 22-23, 1779. At Rt. 90, near Aurora.
-
-See its 1929 Remembrance in the L. P. Hecht Gallery inside...
+  - The Cayuga capital, Goi-O-Guen, was burnt on Sept. 22-23, 1779. At Rt. 90, near Aurora. [See its 1929 Remembrance in the L. P. Hecht Gallery inside...](/gallery/iroquoia/obj077/)
