@@ -30,16 +30,16 @@ html {
 
 body { margin: 0; }
 
-/* Selected elements */
+/* Selected elements. Changing background from 000 to ff0000 */
 
 ::-moz-selection {
   color: #fff;
-  background: #000;
+  background: #ff0000;
 }
 
 ::selection {
   color: #fff;
-  background: #000;
+  background: #ff0000;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
