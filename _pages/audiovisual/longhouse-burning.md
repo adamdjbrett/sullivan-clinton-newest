@@ -18,6 +18,6 @@ sidebar:
 [watch on YouTube](https://youtu.be/1J_hGElTU8Q)
 
 
-[![Longhouse on fire thumbnail image](/images/thumbs/thumblong.jpg)](/videos/longredux.mp4)
+[![Longhouse on fire thumbnail image](/images/thumbs/thumblong.jpg)](/videos/sullivan-clinton-longredux.mp4)
 
-[Download the Longhouse burning, a five-part meditation by Jeremy Zilar](/videos/longredux.mp4)
+[Download the Longhouse burning, a five-part meditation by Jeremy Zilar](/videos/sullivan-clinton-longredux.mp4)
