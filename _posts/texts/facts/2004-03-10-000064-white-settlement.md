@@ -7,7 +7,7 @@ author: bob-spiegelman
 categories:
   - facts
   - texts
-permalink: /texts/facts/archives/name/
+permalink: /texts/facts/archives/white-settlement-lockwood/
 redirect_from: /texts/facts/archives/000123/
 ---
 
