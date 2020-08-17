@@ -1,5 +1,5 @@
 ---
-title: 'Bio for Bob Spiegelman'
+title: 'Bio for Robert Spiegelman'
 date: '2005-06-13'
 author: bob-spiegelman
 permalink: /bio/
