@@ -80,8 +80,8 @@ og_image                 : /images/opengraph.jpg # Open Graph/Twitter default si
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : "Then and Now Project"
+  links: "https://www.thenandnow.us/, https://www.sullivanclinton.com/, https://www.derryveagh.com/, https://www.stakedplains.com/" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/indigenousvalues/
+      url: #
 
 
 # Reading Files
