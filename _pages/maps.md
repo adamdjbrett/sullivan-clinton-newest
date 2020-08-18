@@ -16,7 +16,9 @@ This space will feature maps that show us the places - from the 1770's to the pr
 ### [view the Sullivan Clinton Interactive Map in Shockwave Flash](/mapset/shell.swf)
 In order for this map to work you must have flash installed on your computer.
 Microsoft Edge, Firefox, and Internet explorer run the presentation best. There has been limited success with Google Chrome. Shockwave Flash was officially discontinued by Adobe April 9, 2019. To download an older version of Adobe Shockwave flash please visit [adobe.com](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html). Note installing discontinued software carries a risk. If you chose to view this presentation you do at your own risk.
-
+  * [View the Flash map set online](/mapset/shell.swf)
+  * [Download the Flash map set for Mac *.sit file](/media/files/mapset_compressed/Sullivan-Clinton-mac.sit)
+  * [Download the Flash map set for Windows *.zip file](/media/files/mapset_compressed/mapset.zip)
 
 ## INVASION OF IROQUOIA
 
@@ -24,7 +26,7 @@ Here's an actual map of the Sullivan-Clinton Campaign from 1779!  The mapmaker 
 
 [![Invasion of Iroquoia](/images/thumbs/thumbiroquois.jpg)](/images/maps/iroquoisinvasion.jpg "Launch the Invasion of Iroquoia Map")
 
-Click the Icon to scroll through the line of march.
+
 
 ### THE HISTORY OF THE FIVE INDIAN NATIONS OF CANADA
 
@@ -32,7 +34,6 @@ By Cadwallader Colden, early 1700's, - the NY Colony's first Surveyor-General. C
 
 [![Invasion of Iroquoia](/images/thumbs/thumb5878.jpg)](/images/maps/5878.jpg "Launch The History of The Five Indian Nations of Canada Map")
 
-Click the Icon to launch the map.
 
 ### NO YORK
 

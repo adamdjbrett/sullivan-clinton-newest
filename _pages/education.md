@@ -8,7 +8,7 @@ toc_label: "Educator's Guide TOC"
 toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Here's the Background, Events and Aftermath of Sullivan/Clinton! It provides teachers with ideas for lesson plans, homework assignments and student projects. Version 1.0 is on the webpage below. To download the low-cost PDF version, simply click the "Educator's Guide PDF v1.0" icon below on the left side. Future updates will be made available from this page.
+Here's the Background, Events and Aftermath of Sullivan/Clinton! It provides teachers with ideas for lesson plans, homework assignments and student projects. Version 1.0 is on the webpage below. Download the ["Educator's Guide PDF v1.0"](/media/files/Educators_Guide_Fall2004_V1.pdf). Future updates will be made available from this page.
 
 ## THE SULLIVAN/CLINTON CAMPAIGN: THEN & NOW
 
