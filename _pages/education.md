@@ -627,14 +627,14 @@ He holds a Ph.D. in Sociology from the City University of New York, an M.A. in P
 
 The following sources will provide educators and students with a wealth of material about the Sullivan/Clinton Campaign and the Haudenosaunee/Iroquois people:
 
-**BIBLIOGRAPHY**
+#### BIBLIOGRAPHY
 
-**PRIMARY SOURCES**
+##### **PRIMARY SOURCES**
 
 *   Frederic Cook, ed. _Journals of the Military Expedition of Major General John Sullivan_
 *   Orasmus Turner, _History of the Pioneer Settlement of Phelps & Gorham's Purchase & Morris Reserve_ [New York]
 
-**SECONDARY SOURCES**
+##### **SECONDARY SOURCES**
 
 *   Carol Cornelius, _Iroquois Corn: In a Culture-Based Curriculum_
 *   Allan W. Eckert, _The Wilderness War_
@@ -653,13 +653,13 @@ The following sources will provide educators and students with a wealth of mater
 *   Doug George-Kanentiio, _How Much Land Did the Iroquois Possess?_
 *   Richard Drinnon, _Facing West: The Metaphysics of Indian Hating and Empire-Building_
 
-**WEBOGRAPHY**
+##### **WEBOGRAPHY**
 
 *   **The Sullivan/Clinton Campaign** — [Sullivanclinton.com](/)
-*   **Three Rivers: Hudson/Mohawk/Schoharie — Original Sources**[Fortklock.org](http://www.fortklock.org/)
-*   **The Six Nations Oldest Living Participatory Democracy on Earth —**[Ratical.org](http://www.ratical.org/many_worlds/6Nations/)
-*   **Haudenosaunee: People Building a Long House**[Sixnations.org](http://www.sixnations.org/)
-*   **Iroquois Dreamwork And Spirituality**[Webwinds.com](http://www.webwinds.com/yupanqui/iroquoisdreams.htm)
+*   **Three Rivers: Hudson/Mohawk/Schoharie — Original Sources** - [Fortklock.org](http://www.fortklock.org/)
+*   **The Six Nations Oldest Living Participatory Democracy on Earth** - [Ratical.org](http://www.ratical.org/many_worlds/6Nations/)
+*   **Haudenosaunee: People Building a Long House** - [Sixnations.org](http://www.sixnations.org/)
+*   **Iroquois Dreamwork And Spirituality** - [Webwinds.com](http://www.webwinds.com/yupanqui/iroquoisdreams.htm)
 *   **[Ganondagan.org](http://ganondagan.org/)**
 
 [Back to Top](#top)
