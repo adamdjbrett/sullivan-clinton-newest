@@ -1,6 +1,6 @@
 ---
 title: Maps
-date: '2005-06-13'
+date: '2020-10-13'
 header:
   image: /images/headers/maps.jpg
 author: bob-spiegelman
