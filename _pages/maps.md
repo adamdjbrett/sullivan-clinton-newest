@@ -50,3 +50,6 @@ Where Geology, Development & Dispossession Meet - from a book by Ralph Stockman 
 [![Ithaca-Cornell_Cayuga Map Image](/images/thumbs/Block-Diagram-of-Ithaca-Cor_tn.jpg)](/images/maps/Block-Diagram-of-Ithaca-Cor.gif "Launch The Block Diagrams of Ithaca-Cornell_Cayuga Map")
 
 Click the Icon to launch the map.
+
+### Simeon DeWitt Central NY Military Tract c.1792
+[![Simeon DeWitt Central NY Military Tract](/images/maps/Simeon_DeWitt_Central_NY_Military_Tract_c_tn.jpg)[Simeon DeWitt Central NY Military Tract c.1792](/gallery/map/dewitt-military-tract-map/)
