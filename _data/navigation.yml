@@ -20,6 +20,10 @@ main:
     url: /links/
   - title: "Education"
     url: /education/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "Credits"
     url: /credits/
   - title: "Privacy Policy"
@@ -65,6 +69,10 @@ sidebar-av:
         url: /categories/three-cities/
       - title: "Galleries Main Page"
         url: /galleries/
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
 
 
 #sidebar texts
@@ -83,6 +91,10 @@ sidebar-texts:
         url: /categories/period/
       - title: "Texts"
         url: /categories/texts/
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
 
 #sidebar Galleries
 sidebar-gallery:
@@ -130,3 +142,7 @@ sidebar-gallery:
         url: /audiovisual/longhouse-burning/
       - title: "Sullivan/Clinton Short Video"
         url: /audiovisual/sullivan-clinton-video/
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
