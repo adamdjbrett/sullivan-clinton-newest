@@ -6,6 +6,7 @@ categories:
 tags:
   - archive
   - album
+  - map
 gallery:
 - image_path: /images/gallery/albums/sullivan-clinton-meets-pennsylvania/full/Battle_of_WY_Sign_sized.jpg
   url: /images/gallery/albums/sullivan-clinton-meets-pennsylvania/full/Battle_of_Wyoming_Marker.jpg
