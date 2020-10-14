@@ -13,7 +13,7 @@ gallery:
 
 ---
 
-{% include gallery caption="Full album" %}
+{% include gallery caption="Simeon DeWitt Central NY Military Tract" %}
 
-Central New York Military Tract map drawn by Simeon DeWitt and colored in by Wikipedia user \@Nonenmac. Many of the townships were given classical Greco-Roman names.
+Central New York Military Tract map drawn by Simeon DeWitt and colored in by Wikipedia user @Nonenmac. Many of the townships were given classical Greco-Roman names.
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=876328">Wikipedia Link</a>
