@@ -52,4 +52,4 @@ Where Geology, Development & Dispossession Meet - from a book by Ralph Stockman 
 Click the Icon to launch the map.
 
 ### Simeon DeWitt Central NY Military Tract c.1792
-[![Simeon DeWitt Central NY Military Tract](/images/maps/Simeon_DeWitt_Central_NY_Military_Tract_c_tn.jpg)[Simeon DeWitt Central NY Military Tract c.1792](/gallery/map/dewitt-military-tract-map/)
+[![Simeon DeWitt Central NY Military Tract](/images/maps/Simeon_DeWitt_Central_NY_Military_Tract_c_tn.jpg)](/gallery/map/dewitt-military-tract-map/)
