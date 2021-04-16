@@ -21,5 +21,5 @@ permalink: /swf/
 - [sc540.mp4](/videos/sc540.mp4)
 
 <video autoplay=”autoplay” loop=”loop”a width=”768” height=”512”>
- <source src="/assets/images/intro2-txt.mp4" type="video/mp4">
+ <source src="/videos/intro2-txt.mp4" type="video/mp4">
 </video>
