@@ -6,3 +6,5 @@ permalink: /mapset/
 
 In order for this map to work you must have flash installed on your computer.
 Microsoft Edge, Firefox, and Internet explorer run the presentation best. There has been limited success with Google Chrome. Shockwave Flash was officially discontinued by Adobe April 9, 2019. To download an older version of Adobe Shockwave flash please visit [adobe.com](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html). Note installing discontinued software carries a risk. If you chose to view this presentation you do at your own risk.
+
+<embed src="/mapset/shell.swf" width="550" height="400"> </embed>
