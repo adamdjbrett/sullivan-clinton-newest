@@ -2,6 +2,8 @@
 title: 'mapset'
 permalink: /mapset/
 ---
+This interactive map is for laptops and desktops only.
+
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 <object width="800" height="600"></object>
 <embed src="/mapset/shell.swf" width="800" height="600">
