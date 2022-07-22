@@ -2,6 +2,10 @@
 title: 'mapset'
 permalink: /mapset/
 ---
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<object width="1024" height="768"></object>
+<embed src="/mapset/shell.swf" width="1024" height="768"></embed>
+
 [view the Sullivan Clinton Interact Map in Shockwave Flash](/mapset/shell.swf).
 
 In order for this map to work you must have flash installed on your computer.
