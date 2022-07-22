@@ -3,8 +3,8 @@ title: 'mapset'
 permalink: /mapset/
 ---
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-<object width="1024" height="768"></object>
-<embed src="/mapset/shell.swf" width="1024" height="768"></embed>
+<object width="800" height="600"></object>
+<embed src="/mapset/shell.swf" width="800" height="600">
 
 [view the Sullivan Clinton Interact Map in Shockwave Flash](/mapset/shell.swf).
 
