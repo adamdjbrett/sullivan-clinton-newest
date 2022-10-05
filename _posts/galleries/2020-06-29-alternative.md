@@ -1,5 +1,5 @@
 ---
-title:  "Full Album for Alternate Takes"
+title:  "Full Album for Alternate Takes Part 1"
 categories:
   - gallery
   - alternate-takes
