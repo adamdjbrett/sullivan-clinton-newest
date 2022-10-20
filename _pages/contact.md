@@ -7,7 +7,7 @@ redirect_from: /contact.html
 ---
 ## Contact Sullivan/Clinton
 ⚠️Currently not working⚠️
-<form id="contactform" action="#" method="post"> <!--UPDATE ACTION-->
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdobawgz" method="post">
 <p><label for="Subject">Message Type:</label><br />
 <select name="Subject" id="Subject">
 <option selected="selected">Book a Lecture</option>
