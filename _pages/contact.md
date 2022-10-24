@@ -3,7 +3,6 @@ title: 'Contact'
 date: '2020-04-13'
 author: bob-spiegelman
 permalink: /contact/
-redirect_from: /contact.html
 ---
 ## Contact Sullivan/Clinton
 ⚠️Currently not working⚠️
