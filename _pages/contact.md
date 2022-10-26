@@ -5,7 +5,9 @@ author: bob-spiegelman
 permalink: /contact/
 ---
 ## Contact Sullivan/Clinton
-
+<style>
+option {color:black;} input,textarea {background-color:white; color:black;}
+</style>
 <p><label for="Subject">Message Type:</label><br />
 <select name="Subject" id="Subject" style="color:black;">
 <option selected="selected" style="color:black;">Book a Lecture</option>
@@ -24,5 +26,5 @@ permalink: /contact/
 	</select></p>
 	<p><label for="comment">Message:</label><br /><textarea name="Comment" id="comment" rows="5" cols="30" style="background-color:white; color:black;"></textarea><br /></p>
 	<p><input type="submit" value="Submit" class="button" style="background-color:white; color:black;"/> <input type="reset" value="Reset" name="reset" style="background-color:white; color:black;" class="button"/></p>
-</form>
+</form> 
 
