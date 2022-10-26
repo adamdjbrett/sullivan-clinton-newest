@@ -5,8 +5,8 @@ author: bob-spiegelman
 permalink: /contact/
 ---
 ## Contact Sullivan/Clinton
-⚠️Currently not working⚠️
-<form id="contactform" action="#" method="post"> <!--UPDATE ACTION-->
+
+<form id="contactform" action="https://formspree.io/f/xvoywqvd" method="post"> <!--UPDATE ACTION-->
 <p><label for="Subject">Message Type:</label><br />
 <select name="Subject" id="Subject">
 <option selected="selected">Book a Lecture</option>
