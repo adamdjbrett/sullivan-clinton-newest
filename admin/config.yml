@@ -1,0 +1,160 @@
+backend:
+  name: git-gateway
+  repo: adamdjbrett/sullivan-clinton-newest
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'blog'
+    label: 'Posts'
+    folder: '_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }      
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+#      - { label: 'Header Image', name: 'image', widget: 'image' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles'
+    label: 'Texts Articles'
+    folder: '_posts/texts/articles'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'id', name: 'id', widget: 'number' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog-archive'
+    label: 'Texts Blog Archive'
+    folder: '_posts/texts/blog-archive'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'facts'
+    label: 'Texts Facts'
+    folder: '_posts/texts/facts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'id', name: 'id', widget: 'number' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'hot'
+    label: 'Texts Hot'
+    folder: '_posts/texts/hot'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'id', name: 'id', widget: 'number' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'period'
+    label: 'Texts Period'
+    folder: '_posts/texts/period'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'id', name: 'id', widget: 'number' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Excerpt Separator', name: 'excerpt_separator', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'galleries'
+    label: 'Posts Galleries'
+    folder: '_posts/galleries'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+ #     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'id', name: 'pid', widget: 'number' }
+      - { label: 'Artist', name: 'artist', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: '_date', widget: 'datetime' }
+      - { label: 'Object Type', name: 'object_type', widget: 'string' }
+      - { label: 'Current Location', name: 'current_location', widget: 'string' }
+      - { label: 'Source', name: 'source', widget: 'string' }
+      - { label: 'Label', name: 'label', widget: 'number' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'page'
+    label: 'Page'
+    folder: '_pages/'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+#      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author Profile true/false', name: 'author_profile', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'audiovisual'
+    label: 'Audio Visual'
+    folder: '_pages/audiovisual'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+#      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
