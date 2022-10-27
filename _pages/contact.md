@@ -5,9 +5,8 @@ author: bob-spiegelman
 permalink: /contact/
 ---
 ## Contact Sullivan/Clinton
-<style>
-option {color:black;} input,textarea {background-color:white; color:black;}
-</style>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xvoywqvd" method="post">
 <p><label for="Subject">Message Type:</label><br />
 <select name="Subject" id="Subject" style="color:black;">
 <option selected="selected" style="color:black;">Book a Lecture</option>
