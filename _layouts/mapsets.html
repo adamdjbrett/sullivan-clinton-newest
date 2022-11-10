@@ -43,6 +43,8 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+		<br>
+		<a href="/mapset/" class="btn btn--danger btn--large">Return to Mapset</a>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
