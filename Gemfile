@@ -26,6 +26,5 @@ gem "minimal-mistakes-jekyll"
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-redirect-from"
+  gem "webrick", "~> 2.2.8"
 end
-
-gem "webrick", "~> 1.7"
