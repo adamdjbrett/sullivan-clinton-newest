@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/sullivan-clinton-newest
-report_id: e7d7404de07f38a648b37a41a4768463
+report_id: 150917368bbc4d2da3867186ee96f59b
 repo_type: Public
-timestamp: '2023-11-15T03:26:01+00:00'
+timestamp: '2023-12-14T10:42:50+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 73
+detected_tools_count: 109
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -59,6 +59,17 @@ tools:
   detection_source: package.json
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-24 07:31:17.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: humans.txt
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-24 07:31:17.000000000 Z
 - name: Code Climate
   description: Automated Ruby Code Review
   website_url: https://codeclimate.com/
@@ -78,7 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/public_suffix-4.0.5/codecov.yml
+  detection_source: vendor/bundle/ruby/2.6.0/gems/public_suffix-4.0.5/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: Git
@@ -90,6 +101,18 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: Pow
+  description: Zero-configuration Rack server for Mac OS X
+  website_url: http://pow.cx/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/2345/pow.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: RSpec
   description: Behaviour Driven Development for Ruby
   website_url: https://rspec.info/
@@ -99,7 +122,18 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/safe_yaml-1.0.5/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: Rex
+  description: the friendly automation framework
+  website_url: https://www.rexify.org
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1672/lGhWKEZy_400x400.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rexml-3.2.4/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: RuboCop
@@ -111,7 +145,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/forwardable-extended-2.6.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: RubyGems
@@ -122,7 +156,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
-  detection_source: vendor/bundle/ruby/2.6.0/gems/terminal-table-1.8.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: Travis CI
@@ -134,7 +168,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/sassc-2.3.0/.travis.yml
+  detection_source: vendor/bundle/ruby/2.6.0/gems/ffi-1.12.2/.travis.yml
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: Visual Studio
@@ -159,7 +193,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: npm
@@ -173,6 +207,26 @@ tools:
   detection_source: package.json
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-24 07:31:17.000000000 Z
+- name: MarkUp
+  description: Turn your website into a dynamic canvas ready for feedback
+  website_url: https://www.markup.io/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Feedback Widget
+  image_url: https://img.stackshare.io/service/11902/4p4A_2bO_400x400.jpg
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: _includes/analytics-providers/custom.html
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-24 07:31:17.000000000 Z
 - name: Jekyll
   description: Blog-aware, static site generator in Ruby
   website_url: http://jekyllrb.com/
@@ -182,7 +236,42 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source: vendor/bundle/ruby/2.6.0/gems/jekyll-sitemap-1.4.0/Gemfile
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: humans.txt
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-24 07:31:17.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: Wit
+  description: Natural Language for the Internet of Things. Turn speech into actionable
+    data
+  website_url: https://wit.ai/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: NLP / Sentiment Analysis
+  image_url: https://img.stackshare.io/service/767/Qe0MWT5x.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: ansi
@@ -219,7 +308,20 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19069/default_5f9f148b380c6e53dd11ecf4121a9aa0355b667e.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/pathutil-0.16.2/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: cli
+  description: Command Line Interface gem allows you to quickly specify command argument
+    parser that will automatically generate usage
+  package_url: https://rubygems.org/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: codeclimate-test-reporter
@@ -248,6 +350,43 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: concurrent-ruby-edge
+  description: These features are under active development and may change frequently
+  package_url: https://rubygems.org/concurrent-ruby-edge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: concurrent-ruby-ext
+  description: C extensions to optimize the concurrent-ruby gem when running under
+    MRI
+  package_url: https://rubygems.org/concurrent-ruby-ext
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: coolline
+  description: A readline-like library that allows to change how the input is displayed
+  package_url: https://rubygems.org/coolline
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rb-inotify-0.10.1/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: coveralls
   description: A Ruby implementation of the Coveralls API
   package_url: https://rubygems.org/coveralls
@@ -257,7 +396,31 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18833/default_8c2fa81d8b8e48c679685199823ce30d598d3e87.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rb-inotify-0.10.1/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: down
+  description: Robust streaming downloads using Net::HTTP, HTTP.rb or wget
+  package_url: https://rubygems.org/down
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: eco
+  description: Ruby Eco is a bridge to the official JavaScript Eco compiler
+  package_url: https://rubygems.org/eco
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: em-http-request
@@ -269,6 +432,17 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18996/default_33b08efb2463b893403b434b8c4275715d78743b.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: em-spec
+  description: Simple BDD API for testing asynchronous Ruby/EventMachine code
+  package_url: https://rubygems.org/em-spec
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
   detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
@@ -284,6 +458,18 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: em-websocket-client
+  description: A WebSocket client implementation for EventMachine
+  package_url: https://rubygems.org/em-websocket-client
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: gems
   description: Ruby wrapper for the RubyGems.org API
   package_url: https://rubygems.org/gems
@@ -293,7 +479,20 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19375/default_a6357952cecd3d7f5f139b05b2b322f8db813eda.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/terminal-table-1.8.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: github
+  description: The official `github` command line helper for simplifying your GitHub
+    experience
+  package_url: https://rubygems.org/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: github-markup
@@ -307,6 +506,18 @@ tools:
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18965/default_58b662594c9bbf9376425b9e1bb56dd05ea545dd.png
   detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: github-pages
+  description: Bootstrap the GitHub Pages Jekyll environment locally
+  package_url: https://rubygems.org/github-pages
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/jekyll-gist-1.5.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: hashie
@@ -334,6 +545,19 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/safe_yaml-1.0.5/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: heredoc_unindent
+  description: This gem removes common margin from indented strings, such as the ones
+    produced by indented heredocs
+  package_url: https://rubygems.org/heredoc_unindent
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/safe_yaml-1.0.5/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: http
   description: An easy-to-use client library for making requests from Ruby
   package_url: https://rubygems.org/http
@@ -343,7 +567,19 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18938/default_9835367d7a13be70dd38d3b7dfa4b8514b31a43d.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/terminal-table-1.8.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: its
+  description: You can write `its
+  package_url: https://rubygems.org/its
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: jekyll-paginate
@@ -356,6 +592,18 @@ tools:
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
   detection_source: vendor/bundle/ruby/2.6.0/gems/jekyll-paginate-1.1.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: jekyll-redirect-from
+  description: Seamlessly specify multiple redirection URLs for your pages and posts
+  package_url: https://rubygems.org/jekyll-redirect-from
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: kramdown
@@ -395,6 +643,18 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/colorator-1.1.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: luna-rspec-formatters
+  description: RSpec formatters that are dedicated to Luna
+  package_url: https://rubygems.org/luna-rspec-formatters
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/colorator-1.1.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: m
   description: Run test/unit tests by line number. Metal!
   package_url: https://rubygems.org/m
@@ -404,7 +664,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19334/default_b5954b79fd4e91f3072bc3138e733e2e51071020.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/terminal-table-1.8.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: markdown
@@ -419,6 +679,18 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: mem
+  description: Memoize any method call
+  package_url: https://rubygems.org/mem
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/public_suffix-4.0.5/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: memory_profiler
   description: Memory profiling routines for Ruby 2.3+
   package_url: https://rubygems.org/memory_profiler
@@ -428,7 +700,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19745/default_9441b9831c402e8b1bbbeac1030603f41221911e.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/public_suffix-4.0.5/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: mercenary
@@ -453,7 +725,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18818/default_f36df1cfa9ff6061d7f9b4879088be8538581c49.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/sawyer-0.8.2/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/public_suffix-4.0.5/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: minitest-power_assert
@@ -502,7 +774,19 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19177/default_4d75d07c660d7931fea130f6bce1753509b454d5.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/terminal-table-1.8.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: om
+  description: OM
+  package_url: https://rubygems.org/om
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: os
@@ -529,6 +813,43 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: path
+  description: Path is a library to easily manage paths and with a lot of extra goodness
+  package_url: https://rubygems.org/path
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: platform
+  description: This gem provides all necessary tools to make a Rails application into
+    a platform with third party applications
+  package_url: https://rubygems.org/platform
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: power_assert
+  description: Power Assert for Ruby
+  package_url: https://rubygems.org/power_assert
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: pry
   description: An IRB alternative and runtime developer console
   package_url: https://rubygems.org/pry
@@ -538,7 +859,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18815/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/colorator-1.1.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: pry-coolline
@@ -551,6 +872,31 @@ tools:
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19648/default_6463a3efe7889baeeb046f0c4ec90a9744c6086a.png
   detection_source: vendor/bundle/ruby/2.6.0/gems/rb-inotify-0.10.1/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: qu
+  description: A Ruby library for queuing and processing background jobs with configurable
+    backends
+  package_url: https://rubygems.org/qu
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: que
+  description: A job queue that uses PostgreSQL's advisory locks for speed and reliability
+  package_url: https://rubygems.org/que
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/em-websocket-0.5.1/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: rack
@@ -566,6 +912,18 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: rack-mount
+  description: A stackable dynamic tree based Rack router
+  package_url: https://rubygems.org/rack-mount
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: rake
   description: Rake is a Make-like program implemented in Ruby
   package_url: https://rubygems.org/rake
@@ -575,7 +933,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/sawyer-0.8.2/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: rake-compiler
@@ -587,7 +945,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18881/default_b1cb499f3e62fe773109c989f76e3365fbe49857.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/ffi-1.12.2/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: rake-compiler-dock
@@ -600,7 +958,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19602/default_ad0710c65b106932707389deb3b2e0b93a1ef7b6.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/ffi-1.12.2/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: redcarpet
@@ -612,7 +970,31 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: require
+  description: Manage your project's dependencies with a pretty DSL
+  package_url: https://rubygems.org/require
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: rom
+  description: Persistence and mapping toolkit for Ruby
+  package_url: https://rubygems.org/rom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/rb-inotify-0.10.1/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: rr
@@ -653,6 +1035,18 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/ffi-1.12.2/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: rubysl
+  description: Ruby 2.0+ standard library meta-spec
+  package_url: https://rubygems.org/rubysl
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/ffi-1.12.2/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: safe_yaml
   description: Parse YAML safely
   package_url: https://rubygems.org/safe_yaml
@@ -677,6 +1071,19 @@ tools:
   detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: sigdump
+  description: Setup signal handler which dumps backtrace of running threads and number
+    of allocated objects per class
+  package_url: https://rubygems.org/sigdump
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.6/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: simplecov
   description: Code coverage for Ruby 1.9+ with a powerful configuration library and
     automatic merging of coverage across test suites
@@ -687,7 +1094,19 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18819/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rb-inotify-0.10.1/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: spec
+  description: Modified minitest for Appium
+  package_url: https://rubygems.org/spec
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: spork
@@ -699,6 +1118,18 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19066/default_caa1b13a6ba2271b33fd22cf8d7e73bec9616bff.png
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-05-29 21:01:52.000000000 Z
+- name: test
+  description: The Test library/repository/gem is a testbed project, for use by any
+    other project that needs an external project to test itself against
+  package_url: https://rubygems.org/test
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
   detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
@@ -847,7 +1278,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18825/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
-  detection_source: vendor/bundle/ruby/2.6.0/gems/rouge-3.19.0/Gemfile
+  detection_source: vendor/bundle/ruby/2.6.0/gems/addressable-2.7.0/Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-29 21:01:52.000000000 Z
 - name: npm-run-all
@@ -860,7 +1291,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-newest/blob/master/package.json
   detection_source: package.json
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-24 07:31:17.000000000 Z
@@ -875,7 +1306,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16706/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-newest/blob/master/package.json
   detection_source: package.json
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-24 07:31:17.000000000 Z
@@ -889,7 +1320,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-newest/blob/master/package.json
   detection_source: package.json
   last_updated_by: adamdjbrett
   last_updated_on: 2020-05-24 07:31:17.000000000 Z
