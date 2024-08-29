@@ -7,6 +7,7 @@ author: bob-spiegelman
 permalink: /maps/
 redirect_from:
   - /maps/map.html
+  - /map
 ---
 This space will feature maps that show us the places - from the 1770's to the present day - that have been most affected by the Sullivan-Clinton Campaign and its Aftermath.
 

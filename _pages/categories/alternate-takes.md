@@ -6,5 +6,7 @@ taxonomy: alternate-takes
 sidebar:
   title: "Photo Galleries"
   nav: sidebar-gallery
+redirect_from: 
+  - /gallery/view_album.php?set_albumName=alternative
 ---
 Alternative Viewpoints, from Here & There...

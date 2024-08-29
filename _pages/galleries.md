@@ -93,6 +93,12 @@ feature_row:
   url: "/categories/proseminar/"
   btn_label: "View Proseminar"
   btn_class: "btn--inverse"
+redirect_from: 
+  - /gallery/view_album.php?set_albumName=album01
+  - /gallery/
+  - /gallery/view_photo.php
+  - /gallery/view_photo.p
+  - /gallery
 ---
 
 

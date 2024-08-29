@@ -6,4 +6,5 @@ taxonomy: hot
 sidebar:
   title: "Daring Texts"
   nav: sidebar-texts
+redirect_from: /texts/hot/
 ---

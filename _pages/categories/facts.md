@@ -6,4 +6,6 @@ taxonomy: facts
 sidebar:
   title: "Daring Texts"
   nav: sidebar-texts
+redirect_from: 
+ - /texts/facts/
 ---

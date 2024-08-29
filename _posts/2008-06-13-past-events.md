@@ -7,6 +7,8 @@ author: bob-spiegelman
 permalink: /past-events/
 categories:
   - notes
+redirect_from: 
+  - /event
 ---
 
 ### Events 2006
