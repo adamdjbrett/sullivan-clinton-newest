@@ -453,12 +453,12 @@ Image interpretations are colored by personal experiences and personal social va
 
 **RESOURCES:** The Sullivan/Clinton website [Gallery](/gallery/) features 6 galleries and over 150 images. The six galleries are titled:
 
-1.  [Americana](/gallery/view_album.php?set_albumName=americana)
-2.  [Alternate Takes](/gallery/view_album.php?set_albumName=alternative)
-3.  [A Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities)
-4.  [Iroqouia!](/gallery/view_album.php?set_albumName=album03)
-5.  [Big City Indians](/gallery/view_album.php?set_albumName=album01)
-6.  [Hidden in Plain Sight/Off the Beaten Path](/gallery/view_album.php?set_albumName=album02)
+1.  [Americana](/https://www.sullivanclinton.com/gallery/americana/americana/)
+2.  [Alternate Takes](https://www.sullivanclinton.com/gallery/alternate-takes/alternative-pt1/)
+3.  [A Tale of Three Cities](https://www.sullivanclinton.com/gallery/three-cities/two-cities/)
+4.  [Iroqouia!](https://www.sullivanclinton.com/gallery/album-03/iroquoia/iroquoia/)
+5.  [Big City Indians](https://www.sullivanclinton.com/gallery/album-01/big-city-indians/big-city-indians/)
+6.  [Hidden in Plain Sight/Off the Beaten Path](https://www.sullivanclinton.com/gallery/hidden/hidden-in-plain-site/)
 
 These images depict historical aspects of the Sullivan-Clinton Campaign and old Iroqouia; the sites as they look today; and contemporary representations of the Iroquois and other indigenous people. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
