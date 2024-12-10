@@ -308,15 +308,15 @@ In another assignment, students are asked to advise Washington on whether or not
 
 [Back to Top](#top)  
 
-**RESOURCES:** See the following: The "[Tales of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery and the [Sullivan/Clinton Map](/maps/) and Scenes 1 and 9A of the interactive CD [MapSet](/products/). Also the Appendix of the book [Fields of Fire](/products/), which lists many of the road markers (and former sites) and where to go to find them in or near your area. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** See the following: The "[Tales of Three Cities](/gallery/three-cities/two-cities/)" Gallery and the [Sullivan/Clinton Map](/maps/) and Scenes 1 and 9A of the interactive CD [MapSet](/products/). Also the Appendix of the book [Fields of Fire](/products/), which lists many of the road markers (and former sites) and where to go to find them in or near your area. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 **ASSIGNMENT FOR ELEMENTARY THROUGH HIGH-SCHOOL STUDENTS:**
 
-Take an online field trip. Create four study groups, or let each student choose one capital to research. Then, students should study Scenes 1, 2 and 3 of the [Sullivan/Clinton MapSet](/maps/) (or the CD), to see where and when the destruction took place. Next, students should locate these sites on a NY State road map, and notice how far from home they are. Third, students should visit the "[Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery. Fourth, students should use selected websites and library books to learn about Iroquois village life before the Sullivan-Clinton Campaign took place.
+Take an online field trip. Create four study groups, or let each student choose one capital to research. Then, students should study Scenes 1, 2 and 3 of the [Sullivan/Clinton MapSet](/maps/) (or the CD), to see where and when the destruction took place. Next, students should locate these sites on a NY State road map, and notice how far from home they are. Third, students should visit the "[Tale of Three Cities](/gallery/three-cities/two-cities/)" Gallery. Fourth, students should use selected websites and library books to learn about Iroquois village life before the Sullivan-Clinton Campaign took place.
 
 [Back to Top](#top)  
 
-Students should then go into the [Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities) Gallery and the [Alternate Takes](/gallery/view_album.php?set_albumName=alternative) Gallery and do the following: (1) click to enlarge each image; (2) add a comment online for that photograph by clicking the "Comment" link and then filling in the form.
+Students should then go into the [Tale of Three Cities](/gallery/three-cities/two-cities/) Gallery and the [Alternate Takes](/gallery/alternate-takes/alternative-pt1/) Gallery and do the following: (1) click to enlarge each image; (2) add a comment online for that photograph by clicking the "Comment" link and then filling in the form.
 
 [Back to Top](#top)  
 
@@ -432,7 +432,7 @@ Discuss the differences that words can make in our understanding of historical e
 Look at:
 
 1.  the Appendix of Fields of Fire, or
-2.  the [Tales of Three Cities Gallery](/gallery/view_album.php?set_albumName=2cities), or
+2.  the [Tales of Three Cities Gallery](/gallery/three-cities/two-cities/), or
 3.  visit an actual Iroquois site.
 
 Then select one or more New York historical markers and rewrite it, as if it had been written and posted by an Iroquois historian. What would it say?
@@ -506,7 +506,7 @@ After background research, ask each student to write a critical essay explaining
 
 [Back to Top](#top)  
 
-**RESOURCES:** At [sullivanclinton.com](/), read the entry for "[Salt in the Wounds: The Mines at Little Beard's Town](/texts/hot/archives/000091.php)." In the "[Tale of Three Cities](/gallery/view_album.php?set_albumName=2cities)" Gallery, view the images of Little Beard's Town (it is the site of the Boyd-Parker Park site), including the site of the Retsof Mine collapse and the American Salt Company mine works. See the website [ClarionCall](http://www.clarioncall.com/10akzo.html) for a lively overview of events from the Retsof collapse in 1995 to the end of 1999\. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
+**RESOURCES:** At [sullivanclinton.com](/), read the entry for "[Salt in the Wounds: The Mines at Little Beard's Town](/texts/hot/archives/000091.php)." In the "[Tale of Three Cities](/gallery/three-cities/two-cities/)" Gallery, view the images of Little Beard's Town (it is the site of the Boyd-Parker Park site), including the site of the Retsof Mine collapse and the American Salt Company mine works. See the website [ClarionCall](http://www.clarioncall.com/10akzo.html) for a lively overview of events from the Retsof collapse in 1995 to the end of 1999\. Further resources will be added in future updates of this plan. And be sure to explore and add resources of your own!
 
 **ASSIGNMENT FOR ELEMENTARY AND JUNIOR HIGH STUDENTS:**
 
