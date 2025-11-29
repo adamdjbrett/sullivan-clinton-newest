@@ -1,4 +1,6 @@
 # Sullivan Clinton Campaign
+
+[![Deploy Jekyll to XMIT](https://github.com/adamdjbrett/sullivan-clinton-newest/actions/workflows/xmit-deploy.yml/badge.svg)](https://github.com/adamdjbrett/sullivan-clinton-newest/actions/workflows/xmit-deploy.yml)
 ## 2.0
 
 ## Notes
