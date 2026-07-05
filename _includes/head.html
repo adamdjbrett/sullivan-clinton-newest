@@ -1,6 +1,15 @@
 <meta charset="utf-8">
 
 {% include seo.html %}
+{% include head/zotero.html %}
+{% if page.collection == "posts" %}
+<link rel="cite-as" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+<link rel="type" href="https://schema.org/BlogPosting">
+<link rel="author" href="{{ site.author.url | default: site.url }}">
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ page.url | append: 'metadata.json' | relative_url }}">
+{% else %}
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ '/metadata.json' | relative_url }}">
+{% endif %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
