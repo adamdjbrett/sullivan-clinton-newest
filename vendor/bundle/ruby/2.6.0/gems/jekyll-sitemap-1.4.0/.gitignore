@@ -4,3 +4,4 @@ Gemfile.lock
 spec/dest
 spec/fixtures/.jekyll-cache
 vendor/bundle
+.DS_Store

@@ -1,3 +1,4 @@
 *.gem
 Gemfile.lock
 spec/store.yaml
+.DS_Store

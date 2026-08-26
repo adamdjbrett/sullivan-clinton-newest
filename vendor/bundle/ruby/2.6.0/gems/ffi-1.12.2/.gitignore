@@ -23,3 +23,4 @@ types_log
 embed-test.log
 spec/ffi/embed-test/ext/Makefile
 spec/ffi/embed-test/ext/embed_test.bundle
+.DS_Store

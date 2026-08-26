@@ -19,3 +19,4 @@ spec/dest
 .bundle
 spec/fixtures/.jekyll-metadata
 spec/fixtures/.jekyll-cache
+.DS_Store

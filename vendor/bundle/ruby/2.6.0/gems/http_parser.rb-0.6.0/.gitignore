@@ -9,3 +9,4 @@ tmp
 Makefile
 tags
 *.rbc
+.DS_Store

@@ -19,3 +19,4 @@ tmp
 .rspec_status
 /guard/
 /listen/
+.DS_Store
