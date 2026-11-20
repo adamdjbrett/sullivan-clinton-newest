@@ -1,3 +1,11 @@
+## 2026-11-19 — XMIT upload retry
+
+- Retry deployment once after ten seconds if XMIT reports a chunk upload failure with `tls: bad record MAC`. The deployment log shows the build and output checks passed before the first chunk upload failed.
+
+## 2026-11-19 — Cloudflare beacon verification
+
+- Verified the live homepage’s Cloudflare beacon in Firefox and Chrome. Both received HTTP 200 and 31,853 bytes. A cross-origin fetch in each browser passed with the integrity hash from the live script tag. The digest in the reported Firefox error matched zero bytes.
+
 ## 2026-11-19 — Scholarly metadata and feeds
 
 - Identify the Sullivan-Clinton Campaign website and digital humanities research project, creator Robert Spiegelman, and sponsor Indigenous Values Initiative in each themed page’s JSON-LD. Align the site and post metadata files with those identifiers and use the canonical site address.
