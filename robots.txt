@@ -5,4 +5,4 @@ sitemap: false
 ---
 User-agent: *
 Allow: /
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: {{ '/sitemap.xml' | prepend: site.url | absolute_url }}

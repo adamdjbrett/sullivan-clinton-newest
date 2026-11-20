@@ -17,4 +17,4 @@ Original feed and text-file templates: Moritz Sauer, Phlow
 Site enhancements: Jekyll Codex, Anchor Headings, and Table of Contents
 Theme: Minimal Mistakes by Michael Rose — https://mademistakes.com/
 
-Full credits: {{ '/credits/' | absolute_url }}
+Full credits: {{ '/credits/' | prepend: site.url | absolute_url }}

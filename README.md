@@ -1,6 +1,29 @@
 # Sullivan Clinton Campaign
 
 [![Deploy Jekyll to XMIT](https://github.com/adamdjbrett/sullivan-clinton-newest/actions/workflows/xmit-deploy.yml/badge.svg)](https://github.com/adamdjbrett/sullivan-clinton-newest/actions/workflows/xmit-deploy.yml)
+
+## Build this site
+
+Use the Ruby version in `.ruby-version` and run the following from this repository.
+
+```sh
+bundle install
+RUBY_YJIT_ENABLE=1 JEKYLL_ENV=production bundle exec jekyll build
+bundle exec ruby _scripts/verify_metadata.rb
+```
+
+Run `bundle exec jekyll serve` for a live preview. Jekyll reads the layouts, includes, Sass, data, and JavaScript from this repository. Existing project files take precedence in any future upstream update. Missing theme files were imported from [Minimal Mistakes 4.28.1](https://github.com/mmistakes/minimal-mistakes/tree/4.28.1).
+
+The two Jekyll plugins provide numbered archive pages and redirects. The feeds, sitemap, citation fields, JSON-LD, and HTML compression use Liquid. Sass compresses the compiled CSS.
+
+Each published post has a three-line source file under `_pages/post-metadata/`. For a new post at `/texts/example/`, create `_pages/post-metadata/example.json` with the following content. Update its permalink when moving a post. The shared layout reads the post’s current metadata, and the verifier checks its output against the page head.
+
+```yaml
+---
+permalink: /texts/example/metadata.json
+---
+```
+
 ## 2.0
 
 ## Notes
@@ -60,7 +83,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll encounter `Unknown tag 'include_cached'` errors at build.
 
 [![Minimal Mistakes live preview][2]][1]
 
@@ -71,7 +93,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 ## Notable features
 
-- Bundled as a "theme gem" for easier installation/upgrading.
 - Compatible with GitHub Pages.
 - Support for Jekyll's built-in Sass/SCSS preprocessor.
 - Nine different skins (color variations).
@@ -121,62 +142,6 @@ Additional sample posts are available under [posts archive][year-archive] on the
 [tags-archive]: https://mmistakes.github.io/minimal-mistakes/tags/
 [year-archive]: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
-## Installation
-
-There are three ways to install: as a [gem-based theme](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes), as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) (GitHub Pages compatible), or forking/directly copying all of the theme files into your project.
-
-### Gem-based method
-
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyll’s build process.
-
-This allows for easier installation and updating as you don't have to manage any of the theme files. To install:
-
-1. Add the following to your `Gemfile`:
-
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
-
-2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-3. Set the `theme` in your project's Jekyll `_config.yml` file:
-
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
-
-To update the theme run `bundle update`.
-
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.19.2"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-**Looking for an example?** Use the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting a GitHub Pages hosted site up and running. Generate a new repository from the starter, replace sample content with your own, and configure as needed.
-
 ## Usage
 
 For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
@@ -200,14 +165,6 @@ When submitting a pull request:
 3. Open a pull request on GitHub and describe the feature or fix.
 
 Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
-
----
 
 ## Credits
 

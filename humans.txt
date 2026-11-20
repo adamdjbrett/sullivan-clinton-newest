@@ -11,6 +11,6 @@ Additional support: American Indian Law Alliance — https://aila.ngo/
 Web development and administration: Adam DJ Brett — https://adamdjbrett.com/
 
 /* SITE */
-Website: {{ '/' | absolute_url }}
+Website: {{ '/' | prepend: site.url | absolute_url }}
 Built with: Jekyll and Minimal Mistakes
-Credits: {{ '/credits.txt' | absolute_url }}
+Credits: {{ '/credits.txt' | prepend: site.url | absolute_url }}
