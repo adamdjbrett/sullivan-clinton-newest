@@ -3,6 +3,7 @@ id: 000176
 title: 'JOURNAL OF LIEUT. ERKURIES BEATTY,
 OF THE 4TH PENN LINE.'
 date: 2020-10-09
+author: erkuries-beatty
 excerpt_separator: "<!--more-->"
 categories:
   - period

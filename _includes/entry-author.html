@@ -1,0 +1,2 @@
+{%- assign byline = include.entry | scholarly_author: site -%}
+<span class="p-author h-card h-author">{% if byline.url %}<a class="p-name u-url" href="{{ byline.url | escape }}" rel="author">{{ byline.name | escape }}</a>{% else %}<span class="p-name">{{ byline.name | escape }}</span>{% endif %}</span>

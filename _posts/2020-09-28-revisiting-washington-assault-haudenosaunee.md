@@ -46,4 +46,4 @@ Download event flyer as a [⤓ image](/images/Sullivan-Clinton-Campaign-Flyer.pn
 * [Watch on Youtube](https://youtu.be/HMJOtMjCSAE)
 
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/HMJOtMjCSAE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" width="640" height="360" src="https://www.youtube-nocookie.com/embed/HMJOtMjCSAE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>

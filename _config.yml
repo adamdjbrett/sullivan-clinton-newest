@@ -10,8 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sullivan" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "sullivan"
 
 # Site Settings
@@ -19,9 +18,9 @@ locale                   : "en-US"
 title                    : "Sullivan-Clinton Campaign"
 title_separator          : "-"
 subtitle                 : "Then & Now"
-name                     : "Robert Spielgelman"
+name                     : "Robert Spiegelman"
 description              : "The Sullivan-Clinton Campaign of 1779 was the largest expedition ever before mounted against the Haudenosaunee Confederacy."
-url                      : "https://www.sullivanclinton.com"
+url                      : "https://sullivanclinton.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adamdjbrett/sullivan-clinton-newest"
 teaser                   : "/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -83,17 +82,11 @@ social:
   name                   : "Then and Now Project"
   links: "https://www.thenandnow.us/, https://www.sullivanclinton.com/, https://www.derryveagh.com/, https://www.stakedplains.com/" # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-96037973-8"
-    anonymize_ip         : # true, false (default)
-
-
 # Site Author
 author:
   name             : "Robert Spiegelman"
+  url              : "https://sullivanclinton.com/bio/"
+  uri              : "https://sullivanclinton.com/bio/"
   avatar           : /images/robert-spiegelman-250x250.jpg
   bio              : "Bob Spiegelman has been a freelance author and film producer, screenwriter, project-developer, multimedia advisor, research director and story consultant on a growing array of film, museum and multimedia projects."
   location         : "New York City"
@@ -163,7 +156,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
+  - changelog.md
   - config
   - Gemfile
   - Gemile.lock

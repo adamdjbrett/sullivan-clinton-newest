@@ -1,44 +1,16 @@
 ---
 layout: null
-source: "http://humanstxt.org/Standard.html"
 permalink: /humans.txt
-exclude: true
+sitemap: false
 ---
 /* TEAM */
-
-Director/Author: Robert Spiegelman
-Contact: bob@sullivanclinton.com
-Web: thenandnow.us
-From: NYC
-
-Hosted by: Indigenous Values Initiative
-Web: https://www.indigenousvalues.org
-Twitter: @indigenousVI
-
-Webmaster: Adam DJ Brett
-Contact: adam [at] adamdjbrett.com
-
-Web: Adamdjbrett.com | adamdj.tel
-From: Syracuse University, Syracuse, NY
-
-
-/* THANKS */
-
-Name: Michael Rose @mmistakes
-Role: Creator of Minimal mistakes Theme
-Site: https://mademistakes.com/
-Twitter: @mmistakes
-Theme: https://github.com/mmistakes/minimal-mistakes
-
-Added Components:
-Name: Moritz Sauer
-Role: Ruby/Jekyll-izer of plugin free atom.xml, feed.xml, robots.txt, humans.txt
-Site: http://mo.phlow.de/
-
+Project creator: Robert Spiegelman
+Biography: https://sullivanclinton.com/bio/
+Project sponsor: Indigenous Values Initiative — https://indigenousvalues.org/
+Additional support: American Indian Law Alliance — https://aila.ngo/
+Web development and administration: Adam DJ Brett — https://adamdjbrett.com/
 
 /* SITE */
-
-Last Updated: {{ site.time | date:"%Y/%m/%d" }}
-Standards: HTML5, CSS3
-Software: Atom, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
-Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
+Website: {{ '/' | absolute_url }}
+Built with: Jekyll and Minimal Mistakes
+Credits: {{ '/credits.txt' | absolute_url }}

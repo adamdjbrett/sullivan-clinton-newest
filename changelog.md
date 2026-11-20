@@ -1,3 +1,31 @@
+## 2026-11-19 — Scholarly metadata and feeds
+
+- Identify the Sullivan-Clinton Campaign website and digital humanities research project, creator Robert Spiegelman, and sponsor Indigenous Values Initiative in each themed page’s JSON-LD. Align the site and post metadata files with those identifiers and use the canonical site address.
+- Add Dublin Core and Zotero citation fields once per page. The entry byline, machine-readable author card, and citation use the credited author. Credit George Washington’s letter and Erkuries Beatty’s journal to their writers. Gallery catalog records retain the separate artist and object-date fields.
+- Publish Atom, RSS 2.0, JSON Feed 1.1, and twtxt with the same latest entries. Advertise all four in page heads and configure the XML and JSON media types on XMIT.
+- Publish plain-text credits alongside the human-readable project team and robots files. The credits include the project’s original site, photography, video, music, development, and support credits.
+
+Local production verification covered all 387 themed HTML pages, 279 post metadata files, seven requested endpoints, and all ten entries in each feed. The author checks included entries by Robert Spiegelman, Timothy T. Shaw, Adam DJ Brett, George Washington, and Erkuries Beatty.
+
+## 2026-11-19
+
+- Set the XMIT and HTML referrer policies to `strict-origin-when-cross-origin`. HTTPS requests to Cloudflare Insights carry the site origin while keeping page paths private.
+- Allow Cloudflare Insights scripts and requests, YouTube players, and Font Awesome styles, fonts, and kit requests in the public pages’ Content Security Policy.
+- Remove the retired Universal Analytics tag and retain the active GA4 measurement tag.
+- Pin Ruby 4.0.10 for local builds and CI, and lock Jekyll 4.4.1 with its dependencies for macOS and Linux.
+- Load Minimal Mistakes 4.28.1 from the installed theme gem and retain the site’s custom templates and styles.
+- Send the site origin on YouTube embeds to address player error 153.
+- Link feature images to their card destinations and keep their links above the card overlay.
+- Correct the Capital View thumbnail path, and retain the catalog description with an availability notice for the missing Some Brits Arrive photograph.
+- Use the site layout for the Ruffle map and drop references to missing boilerplate assets.
+- Replace the Font Awesome kit that returned HTTP 403 with the versioned public icon stylesheet.
+
+### Verification
+
+The production build passed under Ruby 4.0.10 and Bundler 4.1.0. A Chrome crawl of 389 non-redirect pages found no first-party console errors. All same-site asset paths referenced by the 471 generated HTML files resolved. Chrome and Firefox both received a readable HTTP 200 response from the reported Cloudflare beacon URL.
+
+All four YouTube embeds played in Chrome and Firefox. Feature image links matched their card destinations in both browsers.
+
 ## [4.19.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2)
 
 ### Enhancements

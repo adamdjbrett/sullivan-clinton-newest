@@ -1,6 +1,7 @@
 ---
 title: 'From George Washington to Major General John Sullivan, 31 May 1779'
 date: 2021-04-29
+author: george-washington
 excerpt_separator: "<!--more-->"
 categories:
   - period

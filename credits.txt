@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /credits.txt
+sitemap: false
+---
+{{ site.title }}
+Project creator: Robert Spiegelman — https://sullivanclinton.com/bio/
+Project sponsor: Indigenous Values Initiative — https://indigenousvalues.org/
+Additional support: American Indian Law Alliance — https://aila.ngo/
+Web development and administration: Adam DJ Brett — https://adamdjbrett.com/
+
+Original site: Clint Fisher Art, Jeremy Zilar, David Correll, and Robert Spiegelman
+Photography: Robert Spiegelman, Generose Cervenka-Lambert, Clint Fisher Art, and John Francis McCarthy
+Video: Raphaele Shirley with Robert Spiegelman
+Music: Roy Harris, Symphony No. 3, Deutsche Grammophon Records
+Original feed and text-file templates: Moritz Sauer, Phlow
+Site enhancements: Jekyll Codex, Anchor Headings, and Table of Contents
+Theme: Minimal Mistakes by Michael Rose — https://mademistakes.com/
+
+Full credits: {{ '/credits/' | absolute_url }}

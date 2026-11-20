@@ -2,6 +2,8 @@
 #Bob
 bob-spiegelman:
   name        : "Robert Spiegelman"
+  url         : "https://sullivanclinton.com/bio/"
+  uri         : "https://sullivanclinton.com/bio/"
   bio         : "Bob Spiegelman has been a freelance author and film producer, screenwriter, project-developer, multimedia advisor, research director and story consultant on a growing array of film, museum and multimedia projects."
   avatar      : "/images/robert-spiegelman-250x250.jpg"
   location    : "New York City"
@@ -19,6 +21,8 @@ bob-spiegelman:
 #Adam
 adamdjbrett:
   name: 'Adam DJ Brett'
+  url: https://adamdjbrett.com/
+  uri: https://adamdjbrett.com/
   bio: "Adam is a Ph.D. candidate in the department of religion at Syracuse University [adamdjbrett.com](https://adamdjbrett.com)."
   location: "Syracuse, NY"
   links:
@@ -34,3 +38,9 @@ timothy-shaw:
   name: 'Timothy T. Shaw'
   position: Author
   bio: "Timothy T. Shaw is a highly respected member of the Old Fort Niagara Corps of Volunteers. He has written for On The Trail magazine and the Camp Chase Gazette."
+
+george-washington:
+  name: George Washington
+
+erkuries-beatty:
+  name: Erkuries Beatty
