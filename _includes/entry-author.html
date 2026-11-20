@@ -9,5 +9,11 @@
 {%- when "url" -%}{{ author_url }}
 {%- when "type" -%}{{ record.type | default: "Person" }}
 {%- else -%}
+{%- if include.byline and author_name == site.author.name -%}
+<span class="p-author h-card h-author" hidden><span class="p-name">{{ author_name | escape }}</span><link class="u-url" itemprop="url" href="{{ author_url | escape }}"></span>
+{%- else -%}
+{% if include.byline %}<p class="page__meta">{% endif %}
 <span class="p-author h-card h-author">{% if author_url %}<a class="p-name u-url" href="{{ author_url | escape }}" rel="author">{{ author_name | escape }}</a>{% else %}<span class="p-name">{{ author_name | escape }}</span>{% endif %}</span>
+{% if include.byline %}</p>{% endif %}
+{%- endif -%}
 {%- endcase -%}
